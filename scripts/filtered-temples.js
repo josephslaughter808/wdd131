@@ -4,84 +4,84 @@ const temples = [
     location: "Salt Lake City, Utah, United States",
     dedicated: "1893, April, 6",
     area: 253000,
-    imageUrl: "https://placehold.co/600x400/webp?text=Salt+Lake+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/SL-Temple2.jpg"
   },
   {
     templeName: "St. George Utah Temple",
     location: "St. George, Utah, United States",
     dedicated: "1877, April, 6",
     area: 110000,
-    imageUrl: "https://placehold.co/600x400/webp?text=St.+George+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/St-George-Utah-Temple4.jpg"
   },
   {
     templeName: "Laie Hawaii Temple",
     location: "Laie, Hawaii, United States",
     dedicated: "1919, November, 27",
     area: 42100,
-    imageUrl: "https://placehold.co/600x400/webp?text=Laie+Hawaii+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Laie-Hawaii-Temple1.jpg"
   },
   {
     templeName: "Rome Italy Temple",
     location: "Rome, Italy",
     dedicated: "2019, March, 10",
     area: 41010,
-    imageUrl: "https://placehold.co/600x400/webp?text=Rome+Italy+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/rome-italy-temple-rendering.jpg"
   },
   {
     templeName: "Payson Utah Temple",
     location: "Payson, Utah, United States",
     dedicated: "2015, June, 7",
     area: 96630,
-    imageUrl: "https://placehold.co/600x400/webp?text=Payson+Utah+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Payson-utah-temple-rendering.jpg"
   },
   {
     templeName: "Palmyra New York Temple",
     location: "Palmyra, New York, United States",
     dedicated: "2000, April, 6",
     area: 10700,
-    imageUrl: "https://placehold.co/600x400/webp?text=Palmyra+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Palmyra-New-York-Temple2.jpg"
   },
   {
     templeName: "Paris France Temple",
     location: "Le Chesnay, France",
     dedicated: "2017, May, 21",
     area: 44000,
-    imageUrl: "https://placehold.co/600x400/webp?text=Paris+France+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Paris-Temple-Skylight2017-resized.jpg"
   },
   {
     templeName: "Monticello Utah Temple",
     location: "Monticello, Utah, United States",
     dedicated: "1998, July, 26",
     area: 11000,
-    imageUrl: "https://placehold.co/600x400/webp?text=Monticello+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/monticelloutah_large.jpg"
   },
   {
     templeName: "Kansas City Missouri Temple",
     location: "Kansas City, Missouri, United States",
     dedicated: "2012, May, 6",
     area: 32000,
-    imageUrl: "https://placehold.co/600x400/webp?text=Kansas+City+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Kansas-City-Missouri-Temple1.jpg"
   },
   {
     templeName: "Hong Kong China Temple",
     location: "Hong Kong, China",
     dedicated: "1996, May, 26",
     area: 21744,
-    imageUrl: "https://placehold.co/600x400/webp?text=Hong+Kong+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/hongkong_large.jpg"
   },
   {
     templeName: "Feather River California Temple",
     location: "Yuba City, California, United States",
     dedicated: "2023, October, 8",
     area: 38793,
-    imageUrl: "https://placehold.co/600x400/webp?text=Feather+River+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Feather-River---Exterior.jpg"
   },
   {
     templeName: "Manti Utah Temple",
     location: "Manti, Utah, United States",
     dedicated: "1888, May, 21",
     area: 74792,
-    imageUrl: "https://placehold.co/600x400/webp?text=Manti+Utah+Temple"
+    imageUrl: "https://newsroom.churchofjesuschrist.org/media/640x480/Manti-Utah-Temple2.jpg"
   }
 ];
 
