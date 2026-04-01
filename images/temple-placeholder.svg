@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Temple placeholder illustration</title>
+  <desc id="desc">A decorative placeholder scene with a temple silhouette.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dcefff"/>
+      <stop offset="100%" stop-color="#fff7ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#sky)"/>
+  <circle cx="518" cy="84" r="40" fill="#ffd27a"/>
+  <rect y="310" width="640" height="110" fill="#d8c6a7"/>
+  <path d="M120 315h400l-40-88H160z" fill="#f8f2ea"/>
+  <rect x="198" y="228" width="244" height="87" fill="#fffdf9"/>
+  <rect x="300" y="120" width="40" height="108" fill="#fffdf9"/>
+  <path d="M320 78l28 42h-56z" fill="#c08a54"/>
+  <rect x="232" y="248" width="44" height="67" fill="#e9dac6"/>
+  <rect x="364" y="248" width="44" height="67" fill="#e9dac6"/>
+  <rect x="292" y="257" width="56" height="58" fill="#d7b48f"/>
+  <text x="320" y="374" fill="#17324a" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Temple Photo Placeholder</text>
+</svg>

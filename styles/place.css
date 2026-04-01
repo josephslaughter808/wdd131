@@ -1,0 +1,136 @@
+:root {
+  --background: #f4f4f4;
+  --surface: #ffffff;
+  --primary: #2d4f6c;
+  --ink: #222222;
+  --line: #d9d9d9;
+  --display-font: "Barlow Condensed", sans-serif;
+  --body-font: "Inter", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  color: var(--ink);
+  background: var(--background);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.place-header {
+  padding: 2rem 1rem;
+  text-align: center;
+  background: var(--primary);
+  color: white;
+}
+
+.place-header h1 {
+  margin: 0;
+  font-family: var(--display-font);
+  font-size: clamp(2.5rem, 10vw, 4.5rem);
+}
+
+.place-main {
+  display: grid;
+  gap: 1rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 1rem 3rem;
+}
+
+.hero picture,
+.hero img {
+  width: 100%;
+}
+
+.hero img {
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+.info-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.info-card h2 {
+  margin-top: 0;
+  font-family: var(--display-font);
+  font-size: 2rem;
+  color: var(--primary);
+}
+
+.weather-icon {
+  margin: 0 auto 1rem;
+}
+
+dl {
+  margin: 0;
+}
+
+dl div {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.2rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+dl div:last-child {
+  border-bottom: 0;
+}
+
+dt {
+  font-weight: 700;
+}
+
+footer {
+  background: var(--primary);
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+footer p {
+  margin: 0.35rem 0;
+}
+
+@media (min-width: 780px) {
+  .place-main {
+    grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr);
+    grid-template-areas:
+      "hero data"
+      "hero weather";
+    align-items: start;
+    margin-top: -2.5rem;
+  }
+
+  .hero {
+    grid-area: hero;
+  }
+
+  .data-card {
+    grid-area: data;
+  }
+
+  .weather-card {
+    grid-area: weather;
+  }
+
+  .weather-card h2::after {
+    content: " \26C5";
+  }
+
+  .weather-icon {
+    display: none;
+  }
+}

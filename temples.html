@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Responsive temple album for WDD 131.">
+  <meta name="author" content="Joseph Slaughter">
+  <title>Temple Album</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/temples.css">
+  <link rel="stylesheet" href="styles/temples-large.css">
+  <script src="scripts/temples.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="header-bar">
+      <span class="site-title">Temple Album</span>
+      <button id="menuButton" class="menu-button" type="button" aria-expanded="false" aria-controls="primaryNav" aria-label="Open navigation menu">
+        &#9776;
+      </button>
+    </div>
+    <nav id="primaryNav" class="navigation">
+      <a href="temples.html">Home</a>
+      <a href="temples.html#old">Old</a>
+      <a href="temples.html#new">New</a>
+      <a href="temples.html#large">Large</a>
+      <a href="temples.html#small">Small</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Temple Gallery</h1>
+    <div class="album-grid">
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Salt Lake Temple" width="640" height="420">
+        <figcaption>Salt Lake Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Logan Utah Temple" width="640" height="420">
+        <figcaption>Logan Utah Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Laie Hawaii Temple" width="640" height="420">
+        <figcaption>Laie Hawaii Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Mesa Arizona Temple" width="640" height="420">
+        <figcaption>Mesa Arizona Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Idaho Falls Temple" width="640" height="420">
+        <figcaption>Idaho Falls Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Provo City Center Temple" width="640" height="420">
+        <figcaption>Provo City Center Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for St. George Temple" width="640" height="420">
+        <figcaption>St. George Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Red Cliffs Utah Temple" width="640" height="420">
+        <figcaption>Red Cliffs Utah Temple</figcaption>
+      </figure>
+      <figure>
+        <img src="images/temple-placeholder.svg" alt="Placeholder image for Rome Italy Temple" width="640" height="420">
+        <figcaption>Rome Italy Temple</figcaption>
+      </figure>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="currentyear"></span> | Joseph Slaughter | United States</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A place page featuring Utah.">
+  <meta name="author" content="Joseph Slaughter">
+  <title>Utah Place Page</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/place.css">
+  <script src="scripts/place.js" defer></script>
+</head>
+<body>
+  <header class="place-header">
+    <h1>Utah</h1>
+  </header>
+
+  <main class="place-main">
+    <section class="hero">
+      <picture>
+        <source media="(min-width: 700px)" srcset="https://placehold.co/1400x700.webp?text=Utah+Landscape">
+        <img src="https://placehold.co/700x900.webp?text=Utah+Landscape" alt="Placeholder hero image representing Utah." width="700" height="900">
+      </picture>
+    </section>
+
+    <section class="info-card data-card">
+      <h2>Data</h2>
+      <dl>
+        <div>
+          <dt>Country</dt>
+          <dd>United States</dd>
+        </div>
+        <div>
+          <dt>Region</dt>
+          <dd>Mountain West</dd>
+        </div>
+        <div>
+          <dt>Population</dt>
+          <dd>3.4 million</dd>
+        </div>
+        <div>
+          <dt>Capital</dt>
+          <dd>Salt Lake City</dd>
+        </div>
+        <div>
+          <dt>Known For</dt>
+          <dd>National parks and mountain scenery</dd>
+        </div>
+      </dl>
+    </section>
+
+    <section class="info-card weather-card">
+      <h2>Weather</h2>
+      <img class="weather-icon" src="images/weather-icon.svg" alt="Partly cloudy weather icon" width="72" height="72">
+      <dl>
+        <div>
+          <dt>Temperature</dt>
+          <dd><span id="temperature">8</span> °C</dd>
+        </div>
+        <div>
+          <dt>Conditions</dt>
+          <dd>Partly cloudy</dd>
+        </div>
+        <div>
+          <dt>Wind</dt>
+          <dd><span id="windSpeed">12</span> km/h</dd>
+        </div>
+        <div>
+          <dt>Wind Chill</dt>
+          <dd><span id="windChill"></span></dd>
+        </div>
+      </dl>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="currentyear"></span> | Joseph Slaughter | United States</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>

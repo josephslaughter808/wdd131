@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Partly cloudy weather icon</title>
+  <circle cx="22" cy="24" r="11" fill="#f8b84e"/>
+  <g fill="#f8b84e">
+    <rect x="20.5" y="5" width="3" height="8" rx="1.5"/>
+    <rect x="20.5" y="35" width="3" height="8" rx="1.5"/>
+    <rect x="4" y="22.5" width="8" height="3" rx="1.5"/>
+    <rect x="32" y="22.5" width="8" height="3" rx="1.5"/>
+  </g>
+  <g fill="#e8eef3">
+    <circle cx="34" cy="34" r="11"/>
+    <circle cx="45" cy="34" r="9"/>
+    <circle cx="27" cy="38" r="8"/>
+    <rect x="22" y="34" width="30" height="12" rx="6"/>
+  </g>
+</svg>

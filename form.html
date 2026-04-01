@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Product review form for WDD 131.">
+  <meta name="author" content="Joseph Slaughter">
+  <title>Product Review Form</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/form.css">
+  <script src="scripts/form.js" defer></script>
+</head>
+<body>
+  <header class="form-header">
+    <h1>Product Review</h1>
+    <p>Complete the form below.</p>
+  </header>
+
+  <main class="form-main">
+    <form action="review.html" method="get" class="review-form">
+      <div class="field-group">
+        <label for="productName">Product Name</label>
+        <select id="productName" name="productName" required>
+          <option value="" disabled selected>Select a Product ...</option>
+        </select>
+      </div>
+
+      <fieldset class="field-group">
+        <legend>Overall Rating</legend>
+        <div class="rating-group">
+          <label for="rating1"><input id="rating1" name="rating" type="radio" value="1" required> <span>&star;</span> 1</label>
+          <label for="rating2"><input id="rating2" name="rating" type="radio" value="2" required> <span>&star;&star;</span> 2</label>
+          <label for="rating3"><input id="rating3" name="rating" type="radio" value="3" required> <span>&star;&star;&star;</span> 3</label>
+          <label for="rating4"><input id="rating4" name="rating" type="radio" value="4" required> <span>&star;&star;&star;&star;</span> 4</label>
+          <label for="rating5"><input id="rating5" name="rating" type="radio" value="5" required> <span>&star;&star;&star;&star;&star;</span> 5</label>
+        </div>
+      </fieldset>
+
+      <div class="field-group">
+        <label for="installDate">Date of Installation</label>
+        <input id="installDate" name="installDate" type="date" required>
+      </div>
+
+      <fieldset class="field-group">
+        <legend>Useful Features</legend>
+        <div class="checklist">
+          <label for="featureDurability"><input id="featureDurability" name="features" type="checkbox" value="Durability"> Durability</label>
+          <label for="featureEase"><input id="featureEase" name="features" type="checkbox" value="Ease of Use"> Ease of Use</label>
+          <label for="featurePerformance"><input id="featurePerformance" name="features" type="checkbox" value="Performance"> Performance</label>
+          <label for="featureDesign"><input id="featureDesign" name="features" type="checkbox" value="Design"> Design</label>
+        </div>
+      </fieldset>
+
+      <div class="field-group">
+        <label for="writtenReview">Written Review</label>
+        <textarea id="writtenReview" name="writtenReview" rows="5" placeholder="Tell us what stood out to you."></textarea>
+      </div>
+
+      <div class="field-group">
+        <label for="userName">User Name</label>
+        <input id="userName" name="userName" type="text" placeholder="Optional">
+      </div>
+
+      <input class="submit-button" type="submit" value="Submit Review">
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="currentyear"></span> | Joseph Slaughter | United States</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>
