@@ -21,6 +21,13 @@ const temples = [
     imageUrl: "images/temples/laie-hawaii-temple.jpg"
   },
   {
+    templeName: "Logan Utah Temple",
+    location: "Logan, Utah, United States",
+    dedicated: "1884, May, 17",
+    area: 119619,
+    imageUrl: "images/temples/logan-utah-temple.jpg"
+  },
+  {
     templeName: "Rome Italy Temple",
     location: "Rome, Italy",
     dedicated: "2019, March, 10",
