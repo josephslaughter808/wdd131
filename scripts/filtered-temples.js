@@ -40,9 +40,11 @@ function createTempleCard(temple, isAnnounced = false) {
 function displayTemples(templeList, title, isAnnounced = false) {
   const container = document.getElementById("templeCards");
   const pageTitle = document.getElementById("pageTitle");
+  const templeCount = document.getElementById("templeCount");
 
   container.innerHTML = "";
   pageTitle.textContent = title;
+  templeCount.textContent = `${templeList.length} temple${templeList.length === 1 ? "" : "s"}`;
 
   if (templeList.length === 0) {
     const message = document.createElement("p");
