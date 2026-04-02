@@ -351,7 +351,8 @@ function setupFilters() {
   const activeFilterBar = document.getElementById("activeFilterBar");
 
   buttons.forEach((button) => {
-    button.addEventListener("click", () => {
+    button.addEventListener("click", (event) => {
+      event.preventDefault();
       currentView = button.dataset.filter;
       activeCardFilter = null;
       const result = filterTemples(currentView);
