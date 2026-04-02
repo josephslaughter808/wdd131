@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Site plan for the Pucklytics hockey app project.">
+  <title>Pucklytics Site Plan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="siteplan.css">
+</head>
+<body>
+  <header class="hero">
+    <img class="hero__logo" src="images/pucklytics-logo.png" alt="Pucklytics logo">
+    <div>
+      <p class="eyebrow">WDD 131 Final Project Plan</p>
+      <h1>Pucklytics Site Plan</h1>
+      <p class="hero__text">A mobile-first adult hockey app focused on stats, scheduling, highlights, draft tools, film review, and league communication.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Site Name</h2>
+      <p><strong>Pucklytics</strong></p>
+      <p>This name combines <em>puck</em> with <em>analytics</em>, which fits the app's purpose as a hockey platform built around player stats, game film, highlights, and league management.</p>
+      <p><strong>Optional domain idea:</strong> pucklytics.app</p>
+    </section>
+
+    <section class="card">
+      <h2>Site Purpose</h2>
+      <p>Pucklytics provides adult hockey leagues with a central mobile-friendly hub where players, captains, and commissioners can manage schedules, view stats, upload and review film, track highlights, communicate through team and league feeds, and run live drafts.</p>
+    </section>
+
+    <section class="card">
+      <h2>Scenarios</h2>
+      <ul>
+        <li>When is my next game, what rink is it on, and have the lines been posted yet?</li>
+        <li>How do I compare to the rest of my team and league in goals, assists, and plus/minus?</li>
+        <li>Can I watch a tagged clip of a player's goal before drafting them?</li>
+        <li>How can a commissioner quickly see who is signed up for the league and assign captains or subs?</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Color Schema</h2>
+      <div class="swatches">
+        <article class="swatch">
+          <div class="swatch__sample swatch__sample--navy"></div>
+          <h3>Deep Navy — <code>#07111F</code></h3>
+          <p>Used for page backgrounds, cards, and the overall dark app shell.</p>
+        </article>
+        <article class="swatch">
+          <div class="swatch__sample swatch__sample--blue"></div>
+          <h3>Glow Blue — <code>#38BDF8</code></h3>
+          <p>Used for outlines, active states, highlights, and important focus elements.</p>
+        </article>
+        <article class="swatch">
+          <div class="swatch__sample swatch__sample--orange"></div>
+          <h3>Burnt Orange — <code>#F97316</code></h3>
+          <p>Used for buttons, calls to action, and competitive game-day accents.</p>
+        </article>
+      </div>
+      <p class="note">This site plan document uses the selected color palette so the plan reflects the real brand direction.</p>
+    </section>
+
+    <section class="card">
+      <h2>Typography</h2>
+      <div class="type-specimen">
+        <p class="type-specimen__heading">Oswald</p>
+        <p>Used for main headings, section titles, and bold hockey-style emphasis.</p>
+      </div>
+      <div class="type-specimen">
+        <p class="type-specimen__body">Source Sans 3</p>
+        <p>Used for body text, descriptions, labels, and readable app content.</p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Wireframes</h2>
+      <div class="wireframes">
+        <article>
+          <h3>Mobile View</h3>
+<pre class="wireframe">+--------------------------------+
+| Top Player / Team Switcher     |
++--------------------------------+
+| Week Header + Arrows           |
++--------------------------------+
+| Your Team's Game Card          |
+| - teams / score / rink         |
+| - lines status                 |
++--------------------------------+
+| Featured Players               |
++--------------------------------+
+| Other League Games             |
++--------------------------------+
+| Bottom App Navigation          |
++--------------------------------+</pre>
+        </article>
+        <article>
+          <h3>Desktop / Wide View</h3>
+<pre class="wireframe">+--------------------------------------------------------------+
+| Top Player / Team Switcher                                   |
++--------------------------------------------------------------+
+| Week Header + Arrows                                         |
++--------------------------------------------------------------+
+| Your Team's Game Card                                        |
++------------------------------+-------------------------------+
+| Featured Player Card         | Featured Player Card          |
++------------------------------+-------------------------------+
+| Other League Games in Stacked Schedule List                  |
++--------------------------------------------------------------+
+| Bottom Navigation / Utility Area                             |
++--------------------------------------------------------------+</pre>
+        </article>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Development Notes</h2>
+      <p>The final project will continue to evolve, but the first priority is a polished mobile-first experience. The main views planned for the finished project are Home, Stats, Feed, Film, Draft, Chat, Profile, and Commissioner tools.</p>
+    </section>
+  </main>
+</body>
+</html>
