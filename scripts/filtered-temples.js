@@ -82,6 +82,27 @@ const temples = [
     dedicated: "1888, May, 21",
     area: 74792,
     imageUrl: "images/temples/manti-utah-temple.jpg"
+  },
+  {
+    templeName: "Colonia Juarez Chihuahua Mexico Temple",
+    location: "Colonia Juarez, Chihuahua, Mexico",
+    dedicated: "1895, March, 6",
+    area: 6800,
+    imageUrl: "images/temples/colonia-juarez-chihuahua-mexico-temple.jpg"
+  },
+  {
+    templeName: "Yigo Guam Temple",
+    location: "Yigo, Guam",
+    dedicated: "2022, May, 22",
+    area: 6861,
+    imageUrl: "images/temples/yigo-guam-temple.jpg"
+  },
+  {
+    templeName: "San Juan Puerto Rico Temple",
+    location: "San Juan, Puerto Rico",
+    dedicated: "2023, January, 15",
+    area: 6988,
+    imageUrl: "images/temples/san-juan-puerto-rico-temple.jpg"
   }
 ];
 
