@@ -155,6 +155,33 @@ const templeStyles = Object.entries(styleGroups).reduce((map, [styleKey, group])
   return map;
 }, {});
 
+const defaultStyle = {
+  key: "other_design",
+  label: "Other / Individual Design"
+};
+
+const prophetPresidents = [
+  { key: "brigham-young", label: "Brigham Young", start: 1847, end: 1877 },
+  { key: "john-taylor", label: "John Taylor", start: 1880, end: 1887 },
+  { key: "wilford-woodruff", label: "Wilford Woodruff", start: 1889, end: 1898 },
+  { key: "lorenzo-snow", label: "Lorenzo Snow", start: 1898, end: 1901 },
+  { key: "joseph-f-smith", label: "Joseph F. Smith", start: 1901, end: 1918 },
+  { key: "heber-j-grant", label: "Heber J. Grant", start: 1918, end: 1945 },
+  { key: "george-albert-smith", label: "George Albert Smith", start: 1945, end: 1951 },
+  { key: "david-o-mckay", label: "David O. McKay", start: 1951, end: 1970 },
+  { key: "joseph-fielding-smith", label: "Joseph Fielding Smith", start: 1970, end: 1972 },
+  { key: "harold-b-lee", label: "Harold B. Lee", start: 1972, end: 1973 },
+  { key: "spencer-w-kimball", label: "Spencer W. Kimball", start: 1973, end: 1985 },
+  { key: "ezra-taft-benson", label: "Ezra Taft Benson", start: 1985, end: 1994 },
+  { key: "howard-w-hunter", label: "Howard W. Hunter", start: 1994, end: 1995 },
+  { key: "gordon-b-hinckley", label: "Gordon B. Hinckley", start: 1995, end: 2008 },
+  { key: "thomas-s-monson", label: "Thomas S. Monson", start: 2008, end: 2018 },
+  { key: "russell-m-nelson", label: "Russell M. Nelson", start: 2018, end: 2100 }
+];
+
+let currentView = "home";
+let activeCardFilter = null;
+
 function updateFooterDates() {
   document.getElementById("currentyear").textContent = new Date().getFullYear();
   document.getElementById("lastModified").textContent = `Last Modified: ${document.lastModified}`;
@@ -174,7 +201,8 @@ function setupMenu() {
 function createTempleCard(temple, isAnnounced = false) {
   const card = document.createElement("section");
   card.className = "temple-card";
-  const style = templeStyles[temple.templeName];
+  const style = getTempleStyle(temple);
+  const prophet = !isAnnounced ? getTempleProphet(temple) : null;
 
   const image = document.createElement("img");
   image.src = temple.imageUrl;
@@ -190,7 +218,8 @@ function createTempleCard(temple, isAnnounced = false) {
     <p><strong>Location:</strong> ${temple.location}</p>
     <p><strong>${isAnnounced ? "Status" : "Dedicated"}:</strong> ${temple.dedicated}</p>
     ${temple.area ? `<p><strong>Area:</strong> ${temple.area.toLocaleString()} sq ft</p>` : ""}
-    ${style ? `<p><strong>Style:</strong> <button type="button" class="style-link" data-style-key="${style.key}">${style.label}</button></p>` : ""}
+    ${!isAnnounced ? `<p><strong>Style:</strong> <button type="button" class="style-link" data-style-key="${style.key}">${style.label}</button></p>` : ""}
+    ${prophet ? `<p><strong>Prophet:</strong> <button type="button" class="prophet-link" data-prophet-key="${prophet.key}">${prophet.label}</button></p>` : ""}
   `;
 
   card.append(image, content);
@@ -201,10 +230,23 @@ function displayTemples(templeList, title, isAnnounced = false) {
   const container = document.getElementById("templeCards");
   const pageTitle = document.getElementById("pageTitle");
   const templeCount = document.getElementById("templeCount");
+  const activeFilterBar = document.getElementById("activeFilterBar");
 
   container.innerHTML = "";
   pageTitle.textContent = title;
   templeCount.textContent = `${templeList.length} temple${templeList.length === 1 ? "" : "s"}`;
+  activeFilterBar.hidden = true;
+  activeFilterBar.innerHTML = "";
+
+  if (activeCardFilter) {
+    activeFilterBar.hidden = false;
+    activeFilterBar.innerHTML = `
+      <div class="active-filter-pill">
+        <span>${activeCardFilter.type}: ${activeCardFilter.label}</span>
+        <button type="button" class="active-filter-close" id="clearCardFilter" aria-label="Clear filter">&times;</button>
+      </div>
+    `;
+  }
 
   if (templeList.length === 0) {
     const message = document.createElement("p");
@@ -221,6 +263,15 @@ function displayTemples(templeList, title, isAnnounced = false) {
 function getYear(dateText) {
   const match = dateText.match(/\d{4}/);
   return match ? Number(match[0]) : NaN;
+}
+
+function getTempleStyle(temple) {
+  return templeStyles[temple.templeName] || defaultStyle;
+}
+
+function getTempleProphet(temple) {
+  const year = getYear(temple.dedicated);
+  return prophetPresidents.find((prophet) => year >= prophet.start && year <= prophet.end) || null;
 }
 
 function filterTemples(filter) {
@@ -265,24 +316,45 @@ function filterTemples(filter) {
 }
 
 function filterByStyle(styleKey) {
-  const group = styleGroups[styleKey];
+  const list = operatingTemples.filter((temple) => getTempleStyle(temple).key === styleKey);
+  const style = list.length > 0 ? getTempleStyle(list[0]) : defaultStyle;
+  activeCardFilter = { type: "Style", label: style.label };
+  displayTemples(list, "Home");
+}
 
-  if (!group) {
+function filterByProphet(prophetKey) {
+  const prophet = prophetPresidents.find((item) => item.key === prophetKey);
+
+  if (!prophet) {
     return;
   }
 
-  const styleSet = new Set(group.temples);
-  const list = operatingTemples.filter((temple) => styleSet.has(temple.templeName));
-  displayTemples(list, group.label);
+  const list = operatingTemples.filter((temple) => {
+    const templeProphet = getTempleProphet(temple);
+    return templeProphet && templeProphet.key === prophetKey;
+  });
+
+  activeCardFilter = { type: "Prophet", label: prophet.label };
+  displayTemples(list, "Home");
+}
+
+function clearCardFilter() {
+  activeCardFilter = null;
+  currentView = "home";
+  const result = filterTemples("home");
+  displayTemples(result.list, result.title, result.announced);
 }
 
 function setupFilters() {
   const buttons = document.querySelectorAll("[data-filter]");
   const cards = document.getElementById("templeCards");
+  const activeFilterBar = document.getElementById("activeFilterBar");
 
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
-      const result = filterTemples(button.dataset.filter);
+      currentView = button.dataset.filter;
+      activeCardFilter = null;
+      const result = filterTemples(currentView);
       displayTemples(result.list, result.title, result.announced);
     });
   });
@@ -291,10 +363,23 @@ function setupFilters() {
     const styleButton = event.target.closest("[data-style-key]");
 
     if (!styleButton) {
+      const prophetButton = event.target.closest("[data-prophet-key]");
+
+      if (!prophetButton) {
+        return;
+      }
+
+      filterByProphet(prophetButton.dataset.prophetKey);
       return;
     }
 
     filterByStyle(styleButton.dataset.styleKey);
+  });
+
+  activeFilterBar.addEventListener("click", (event) => {
+    if (event.target.id === "clearCardFilter") {
+      clearCardFilter();
+    }
   });
 }
 

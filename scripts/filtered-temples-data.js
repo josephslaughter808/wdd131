@@ -1901,7 +1901,7 @@ const announcedTemples = [
     "templeName": "Charlotte North Carolina Temple",
     "location": "North Carolina, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/960px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156619
   },
@@ -1933,7 +1933,7 @@ const announcedTemples = [
     "templeName": "Hamburg Germany Temple",
     "location": "Germany",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg/960px-Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156613
   },
@@ -1941,7 +1941,7 @@ const announcedTemples = [
     "templeName": "Jakarta Indonesia Temple",
     "location": "Indonesia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/3ruqdhoofk452hsw9pqcfpi4qb38lz6urgym1euw/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/960px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156612
   },
@@ -1949,7 +1949,7 @@ const announcedTemples = [
     "templeName": "Iloilo Philippines Temple",
     "location": "Philippines",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/r0jmg6rhc21wbjya2fndjaq13yh90gpt66ccjjoo/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mandurriao_Iloilo_City_skyline_2025_%28enhanced%29.jpg/960px-Mandurriao_Iloilo_City_skyline_2025_%28enhanced%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156611
   },
@@ -1973,7 +1973,7 @@ const announcedTemples = [
     "templeName": "Portland Maine Temple",
     "location": "Maine, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TheOldPort.jpg/960px-TheOldPort.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4176171
   },
@@ -2037,7 +2037,7 @@ const announcedTemples = [
     "templeName": "Honolulu Hawaii Temple",
     "location": "Hawaii, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2022_Views_from_Diamond_Head_02.jpg/960px-2022_Views_from_Diamond_Head_02.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163874
   },
@@ -2045,7 +2045,7 @@ const announcedTemples = [
     "templeName": "Brisbane Australia South Temple",
     "location": "Australia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg/960px-Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163873
   },
@@ -2053,7 +2053,7 @@ const announcedTemples = [
     "templeName": "Edinburgh Scotland Temple",
     "location": "United Kingdom",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/960px-Skyline_of_Edinburgh.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163872
   },
@@ -2069,7 +2069,7 @@ const announcedTemples = [
     "templeName": "Florianopolis Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Morro_da_Cruz%2C_Florian%C3%B3polis_-_SC%2C_Brazil_-_panoramio_%28cropped%29.jpg/960px-Morro_da_Cruz%2C_Florian%C3%B3polis_-_SC%2C_Brazil_-_panoramio_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163870
   },
@@ -2093,7 +2093,7 @@ const announcedTemples = [
     "templeName": "Chihuahua Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/cler3ehe1x7yujukbgb838g0fft6tl28kbcv9vh3/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Chihuahua_montage.jpg/960px-Chihuahua_montage.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163867
   },
@@ -2117,7 +2117,7 @@ const announcedTemples = [
     "templeName": "Monrovia Liberia Temple",
     "location": "Liberia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg/960px-Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4142972
   },
@@ -2165,7 +2165,7 @@ const announcedTemples = [
     "templeName": "Milwaukee Wisconsin Temple",
     "location": "Wisconsin, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg/960px-Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168041
   },
@@ -2197,7 +2197,7 @@ const announcedTemples = [
     "templeName": "Maputo Mozambique Temple",
     "location": "Mozambique",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg/960px-Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168037
   },
@@ -2205,7 +2205,7 @@ const announcedTemples = [
     "templeName": "Kampala Uganda Temple",
     "location": "Uganda",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Urban_Rising%2C_KAMPALA%2C_Uganda.jpg/960px-Urban_Rising%2C_KAMPALA%2C_Uganda.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168036
   },
@@ -2245,7 +2245,7 @@ const announcedTemples = [
     "templeName": "Medellín Colombia Temple",
     "location": "Colombia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/El_Poblado_Medell%C3%ADn.jpg/960px-El_Poblado_Medell%C3%ADn.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168031
   },
@@ -2325,7 +2325,7 @@ const announcedTemples = [
     "templeName": "Cusco Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_Calle_Suecia.jpg/960px-Vista_Calle_Suecia.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148124
   },
@@ -2365,7 +2365,7 @@ const announcedTemples = [
     "templeName": "Barcelona Spain Temple",
     "location": "Spain",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/b42fb8e513a611ef810ceeeeac1e1bfbd6b8bda8/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/960px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148122
   },
@@ -2405,7 +2405,7 @@ const announcedTemples = [
     "templeName": "Porto Portugal Temple",
     "location": "Portugal",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/960px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4171158
   },
@@ -2429,7 +2429,7 @@ const announcedTemples = [
     "templeName": "Ulaanbaatar Mongolia Temple",
     "location": "Mongolia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/mllhs037uekarpnow0qtbpzojnu6p3fg2r17vjjb/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/960px-UB_downtown.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160404
   },
@@ -2477,7 +2477,7 @@ const announcedTemples = [
     "templeName": "Roanoke Virginia Temple",
     "location": "Virginia, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Roanoke_City_%28Virginia%29_from_Mill_Mountain_Star_at_Dusk.jpg/960px-Roanoke_City_%28Virginia%29_from_Mill_Mountain_Star_at_Dusk.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160400
   },
@@ -2493,7 +2493,7 @@ const announcedTemples = [
     "templeName": "Tulsa Oklahoma Temple",
     "location": "Oklahoma, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/tk6jlx7y51179ccdxg9pd9z03maakbw0cm58rsnr/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tulsa_skyline_aerial%2C_April_2023.jpg/960px-Tulsa_skyline_aerial%2C_April_2023.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160399
   },
@@ -2605,7 +2605,7 @@ const announcedTemples = [
     "templeName": "La Paz Bolivia Temple",
     "location": "Bolivia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/b7e260aa13a611ef9048eeeeac1eee0f360f4c1d/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/960px-Vista_del_centro_de_La_Paz.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4142977
   },
@@ -2677,7 +2677,7 @@ const announcedTemples = [
     "templeName": "Chiclayo Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chiclayo-Peru3.jpg/960px-Chiclayo-Peru3.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153307
   },
@@ -2709,7 +2709,7 @@ const announcedTemples = [
     "templeName": "Busan Korea Temple",
     "location": "South Korea",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gwangandaegyo_Bridge_in_Busan%2C_South_Korea_%28iau2207b%29.tiff/lossy-page1-960px-Gwangandaegyo_Bridge_in_Busan%2C_South_Korea_%28iau2207b%29.tiff.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153303
   }
