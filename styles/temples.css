@@ -153,6 +153,17 @@ figcaption {
   margin: 0.3rem 0;
 }
 
+.style-link {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 footer {
   text-align: center;
   padding: 1rem;
