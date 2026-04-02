@@ -1662,7 +1662,7 @@ const announcedTemples = [
     "templeName": "São Paulo East Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Itarar%C3%A9%2C_S%C3%A3o_Vicente_-_SP%2C_Brazil_-_panoramio.jpg/960px-Itarar%C3%A9%2C_S%C3%A3o_Vicente_-_SP%2C_Brazil_-_panoramio.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4134474
   },
@@ -1670,7 +1670,7 @@ const announcedTemples = [
     "templeName": "Iquitos Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_River_ESA387332.jpg/960px-Amazon_River_ESA387332.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156607
   },
@@ -1678,7 +1678,7 @@ const announcedTemples = [
     "templeName": "Retalhuleu Guatemala Temple",
     "location": "Guatemala",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Palacio_Departamental_de_Retalhuleu.jpg/960px-Palacio_Departamental_de_Retalhuleu.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156606
   },
@@ -1694,7 +1694,7 @@ const announcedTemples = [
     "templeName": "Charlotte North Carolina Temple",
     "location": "North Carolina, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/960px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156619
   },
@@ -1726,7 +1726,7 @@ const announcedTemples = [
     "templeName": "Hamburg Germany Temple",
     "location": "Germany",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_airport_terminals.jpg/960px-Hamburg_airport_terminals.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156613
   },
@@ -1766,7 +1766,7 @@ const announcedTemples = [
     "templeName": "Portland Maine Temple",
     "location": "Maine, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TheOldPort.jpg/960px-TheOldPort.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4176171
   },
@@ -1774,7 +1774,7 @@ const announcedTemples = [
     "templeName": "West Jordan Utah Temple",
     "location": "Utah, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/West_Jordan_city_offices%2C_Utah.JPG/960px-West_Jordan_city_offices%2C_Utah.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4163881
   },
@@ -1782,7 +1782,7 @@ const announcedTemples = [
     "templeName": "Lehi Utah Temple",
     "location": "Utah, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lehi%2C_cropped_from_The_Promised_Land%2C_September_1925.png/960px-Lehi%2C_cropped_from_The_Promised_Land%2C_September_1925.png",
     "status": "ANNOUNCED",
     "templeOrgId": 4163880
   },
@@ -1822,7 +1822,7 @@ const announcedTemples = [
     "templeName": "Victoria British Columbia Temple",
     "location": "Canada",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg/960px-Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163875
   },
@@ -1830,7 +1830,7 @@ const announcedTemples = [
     "templeName": "Honolulu Hawaii Temple",
     "location": "Hawaii, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2022_Views_from_Diamond_Head_02.jpg/960px-2022_Views_from_Diamond_Head_02.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163874
   },
@@ -1838,7 +1838,7 @@ const announcedTemples = [
     "templeName": "Brisbane Australia South Temple",
     "location": "Australia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Streets_Beach_at_South_Bank_Parklands%2C_Brisbane_03.jpg/960px-Streets_Beach_at_South_Bank_Parklands%2C_Brisbane_03.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163873
   },
@@ -1846,7 +1846,7 @@ const announcedTemples = [
     "templeName": "Edinburgh Scotland Temple",
     "location": "United Kingdom",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Temple_of_Fame%2C_McEwan_Hall%2C_Edinburgh%2C_4.jpg/960px-The_Temple_of_Fame%2C_McEwan_Hall%2C_Edinburgh%2C_4.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163872
   },
@@ -1854,7 +1854,7 @@ const announcedTemples = [
     "templeName": "Rosario Argentina Temple",
     "location": "Argentina",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rosario_Dawson_2025.jpg/960px-Rosario_Dawson_2025.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163871
   },
@@ -1862,7 +1862,7 @@ const announcedTemples = [
     "templeName": "Florianopolis Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vira-lata_Social-anal%C3%B3gico_%283084200705%29.jpg/960px-Vira-lata_Social-anal%C3%B3gico_%283084200705%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163870
   },
@@ -1870,7 +1870,7 @@ const announcedTemples = [
     "templeName": "Maracaibo Venezuela Temple",
     "location": "Venezuela",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg/960px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163869
   },
@@ -1878,7 +1878,7 @@ const announcedTemples = [
     "templeName": "Uturoa French Polynesia Temple",
     "location": "French Polynesia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Uturoa.png",
     "status": "ANNOUNCED",
     "templeOrgId": 4163868
   },
@@ -1894,7 +1894,7 @@ const announcedTemples = [
     "templeName": "Culiacán Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Battle_of_Culiacan.png/960px-Battle_of_Culiacan.png",
     "status": "ANNOUNCED",
     "templeOrgId": 4142975
   },
@@ -1902,7 +1902,7 @@ const announcedTemples = [
     "templeName": "Kananga Democratic Republic of the Congo Temple",
     "location": "Democratic Republic of the Congo",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2006_Nouvelles_provinces_de_la_R%C3%A9publique_D%C3%A9mocratique_du_Congo.png/960px-2006_Nouvelles_provinces_de_la_R%C3%A9publique_D%C3%A9mocratique_du_Congo.png",
     "status": "ANNOUNCED",
     "templeOrgId": 4142973
   },
@@ -1910,7 +1910,7 @@ const announcedTemples = [
     "templeName": "Monrovia Liberia Temple",
     "location": "Liberia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monrovia_CA_San_Gabriel_Mountains_i210.JPG/960px-Monrovia_CA_San_Gabriel_Mountains_i210.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4142972
   },
@@ -1918,7 +1918,7 @@ const announcedTemples = [
     "templeName": "Beira Mozambique Temple",
     "location": "Mozambique",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pra%C3%A7a_do_Munic%C3%ADpio%2C_Beira%2C_Mozambique_%2823864553149%29.jpg/960px-Pra%C3%A7a_do_Munic%C3%ADpio%2C_Beira%2C_Mozambique_%2823864553149%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4138354
   },
@@ -1926,7 +1926,7 @@ const announcedTemples = [
     "templeName": "Vienna Austria Temple",
     "location": "Austria",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiwtl6.jpg/960px-Wiwtl6.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4138352
   },
@@ -1934,7 +1934,7 @@ const announcedTemples = [
     "templeName": "Oslo Norway Temple",
     "location": "Norway",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg/960px-Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4138350
   },
@@ -1942,7 +1942,7 @@ const announcedTemples = [
     "templeName": "Price Utah Temple",
     "location": "Utah, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Park_City_overview.jpg/960px-Park_City_overview.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168043
   },
@@ -1958,7 +1958,7 @@ const announcedTemples = [
     "templeName": "Milwaukee Wisconsin Temple",
     "location": "Wisconsin, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Milwaukee_County_Courthouse_built_1931.jpg/960px-Milwaukee_County_Courthouse_built_1931.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168041
   },
@@ -1974,7 +1974,7 @@ const announcedTemples = [
     "templeName": "El Paso Texas Temple",
     "location": "Texas, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/960px-El_Paso_Cityscape_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168039
   },
@@ -1990,7 +1990,7 @@ const announcedTemples = [
     "templeName": "Maputo Mozambique Temple",
     "location": "Mozambique",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/LAM_Mozambique_Embraer_190_C9-EMC.jpg/960px-LAM_Mozambique_Embraer_190_C9-EMC.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168037
   },
@@ -1998,7 +1998,7 @@ const announcedTemples = [
     "templeName": "Kampala Uganda Temple",
     "location": "Uganda",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg/960px-Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168036
   },
@@ -2006,7 +2006,7 @@ const announcedTemples = [
     "templeName": "Abuja Nigeria Temple",
     "location": "Nigeria",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_National_Assembly_Globe.jpg/960px-The_National_Assembly_Globe.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168035
   },
@@ -2014,7 +2014,7 @@ const announcedTemples = [
     "templeName": "Milan Italy Temple",
     "location": "Italy",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiwtl6.jpg/960px-Wiwtl6.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168034
   },
@@ -2022,7 +2022,7 @@ const announcedTemples = [
     "templeName": "Puerto Montt Chile Temple",
     "location": "Chile",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Copihue_de_Oro_2018_-_Pamela_D%C3%ADaz_-_02.jpg/960px-Copihue_de_Oro_2018_-_Pamela_D%C3%ADaz_-_02.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168033
   },
@@ -2030,7 +2030,7 @@ const announcedTemples = [
     "templeName": "Santiago Dominican Republic Temple",
     "location": "Dominican Republic",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/960px-SantoDomingoedit.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4168032
   },
@@ -2038,7 +2038,7 @@ const announcedTemples = [
     "templeName": "Medellín Colombia Temple",
     "location": "Colombia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/El_Poblado_Medell%C3%ADn.jpg/960px-El_Poblado_Medell%C3%ADn.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168031
   },
@@ -2046,7 +2046,7 @@ const announcedTemples = [
     "templeName": "Santa Ana El Salvador Temple",
     "location": "El Salvador",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/San_Salvador_Montage.jpg/960px-San_Salvador_Montage.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168030
   },
@@ -2054,7 +2054,7 @@ const announcedTemples = [
     "templeName": "Juchitán de Zaragoza Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Natalia_Toledo.jpg/960px-Natalia_Toledo.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168029
   },
@@ -2062,7 +2062,7 @@ const announcedTemples = [
     "templeName": "Dublin Ireland Temple",
     "location": "Ireland",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg/960px-The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168028
   },
@@ -2070,7 +2070,7 @@ const announcedTemples = [
     "templeName": "Queen Creek Arizona Temple",
     "location": "Arizona, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Queen_Creek-Queen_Creek_Town_Hall.jpg/960px-Queen_Creek-Queen_Creek_Town_Hall.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4168027
   },
@@ -2094,7 +2094,7 @@ const announcedTemples = [
     "templeName": "Santos Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Panomara_Goi%C3%A2nia_2022.jpg/960px-Panomara_Goi%C3%A2nia_2022.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148126
   },
@@ -2118,7 +2118,7 @@ const announcedTemples = [
     "templeName": "Cusco Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_Calle_Suecia.jpg/960px-Vista_Calle_Suecia.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148124
   },
@@ -2134,7 +2134,7 @@ const announcedTemples = [
     "templeName": "Shanghai People’s Republic of China Temple",
     "location": "China",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/undefined/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/960px-Pudong_Shanghai_November_2017_panorama.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4130716
   },
@@ -2142,7 +2142,7 @@ const announcedTemples = [
     "templeName": "Dubai United Arab Emirates Temple",
     "location": "United Arab Emirates",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Burj_Khalifa_2021.jpg/960px-Burj_Khalifa_2021.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4130715
   },
@@ -2150,7 +2150,7 @@ const announcedTemples = [
     "templeName": "Rapid City South Dakota Temple",
     "location": "South Dakota, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/960px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171163
   },
@@ -2166,7 +2166,7 @@ const announcedTemples = [
     "templeName": "Liverpool Australia Temple",
     "location": "Australia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Liverpoolcityskyline.jpg/960px-Liverpoolcityskyline.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171162
   },
@@ -2174,7 +2174,7 @@ const announcedTemples = [
     "templeName": "Nouméa New Caledonia Temple",
     "location": "New Caledonia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2019_Nissan_Terra_2.5_VE_4x2_in_Fiery_Red%2C_front_right.jpg/960px-2019_Nissan_Terra_2.5_VE_4x2_in_Fiery_Red%2C_front_right.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171161
   },
@@ -2182,7 +2182,7 @@ const announcedTemples = [
     "templeName": "San Jose del Monte Philippines Temple",
     "location": "Philippines",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grotto_of_Our_Lady_of_Lourdes%2C_SJDM%2C_Bulacan_%28November_2020%29.jpg/960px-Grotto_of_Our_Lady_of_Lourdes%2C_SJDM%2C_Bulacan_%28November_2020%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171160
   },
@@ -2190,7 +2190,7 @@ const announcedTemples = [
     "templeName": "Uyo Nigeria Temple",
     "location": "Nigeria",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg/960px-Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171159
   },
@@ -2198,7 +2198,7 @@ const announcedTemples = [
     "templeName": "Porto Portugal Temple",
     "location": "Portugal",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/960px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4171158
   },
@@ -2206,7 +2206,7 @@ const announcedTemples = [
     "templeName": "Campo Grande Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Panomara_Goi%C3%A2nia_2022.jpg/960px-Panomara_Goi%C3%A2nia_2022.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171157
   },
@@ -2214,7 +2214,7 @@ const announcedTemples = [
     "templeName": "Rivera Uruguay Temple",
     "location": "Uruguay",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pinacoteca_Diego_Rivera%2C_Xalapa.jpg/960px-Pinacoteca_Diego_Rivera%2C_Xalapa.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171156
   },
@@ -2238,7 +2238,7 @@ const announcedTemples = [
     "templeName": "Reynosa Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vista_desde_el_tejado.jpeg/960px-Vista_desde_el_tejado.jpeg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171154
   },
@@ -2246,7 +2246,7 @@ const announcedTemples = [
     "templeName": "Kahului Hawaii Temple",
     "location": "Hawaii, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kahului_Railroad_on_Maui%2C_Steam_Locomotive%2C_1911.jpg/960px-Kahului_Railroad_on_Maui%2C_Steam_Locomotive%2C_1911.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160401
   },
@@ -2254,7 +2254,7 @@ const announcedTemples = [
     "templeName": "Spanish Fork Utah Temple",
     "location": "Utah, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Spanish_Fork_Peak_sunset.jpg/960px-Spanish_Fork_Peak_sunset.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171153
   },
@@ -2270,7 +2270,7 @@ const announcedTemples = [
     "templeName": "Roanoke Virginia Temple",
     "location": "Virginia, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Roanoke_County_courthouse.JPG/960px-Roanoke_County_courthouse.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4160400
   },
@@ -2278,7 +2278,7 @@ const announcedTemples = [
     "templeName": "Caldwell Idaho Temple",
     "location": "Idaho, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171151
   },
@@ -2310,7 +2310,7 @@ const announcedTemples = [
     "templeName": "Laoag Philippines Temple",
     "location": "Philippines",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ilocos_Norte_Capitol_right_side_view_%28JP_Rizal%2C_Laoag%2C_Ilocos_Norte%3B_11-16-2022%29.jpg/960px-Ilocos_Norte_Capitol_right_side_view_%28JP_Rizal%2C_Laoag%2C_Ilocos_Norte%3B_11-16-2022%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160396
   },
@@ -2326,7 +2326,7 @@ const announcedTemples = [
     "templeName": "Luanda Angola Temple",
     "location": "Angola",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luanda_2025_focused_%28cropped%29.jpg/960px-Luanda_2025_focused_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160394
   },
@@ -2334,7 +2334,7 @@ const announcedTemples = [
     "templeName": "Cape Coast Ghana Temple",
     "location": "Ghana",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/University_Library_complex.JPG/960px-University_Library_complex.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4160393
   },
@@ -2350,7 +2350,7 @@ const announcedTemples = [
     "templeName": "Goiânia Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Panomara_Goi%C3%A2nia_2022.jpg/960px-Panomara_Goi%C3%A2nia_2022.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160390
   },
@@ -2358,7 +2358,7 @@ const announcedTemples = [
     "templeName": "Russia Temple",
     "location": "Russia",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/undefined/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dnipro_after_Russian_missile_attack%2C_2023-01-14_%2802-01%29.jpg/960px-Dnipro_after_Russian_missile_attack%2C_2023-01-14_%2802-01%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4108676
   },
@@ -2366,7 +2366,7 @@ const announcedTemples = [
     "templeName": "Viña del Mar Chile Temple",
     "location": "Chile",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Palacio_Vergara%2C_Vi%C3%B1a_del_Mar_20210725_16.jpg/960px-Palacio_Vergara%2C_Vi%C3%B1a_del_Mar_20210725_16.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160389
   },
@@ -2374,7 +2374,7 @@ const announcedTemples = [
     "templeName": "Huancayo Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_a%C3%A9rea_de_la_Iglesia_Matriz_del_Callao.jpg/960px-Vista_a%C3%A9rea_de_la_Iglesia_Matriz_del_Callao.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160388
   },
@@ -2414,7 +2414,7 @@ const announcedTemples = [
     "templeName": "Vitória Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Santa_Vitoria_do_Palmar_-_Franc-Maconnerie.JPG/960px-Santa_Vitoria_do_Palmar_-_Franc-Maconnerie.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4142976
   },
@@ -2422,7 +2422,7 @@ const announcedTemples = [
     "templeName": "Tula Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TulaSite81.JPG/960px-TulaSite81.JPG",
     "status": "ANNOUNCED",
     "templeOrgId": 4153320
   },
@@ -2470,7 +2470,7 @@ const announcedTemples = [
     "templeName": "Chiclayo Peru Temple",
     "location": "Peru",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/El%C3%ADas_Aguirre_Romero.jpg/960px-El%C3%ADas_Aguirre_Romero.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153307
   },
@@ -2478,7 +2478,7 @@ const announcedTemples = [
     "templeName": "Eket Nigeria Temple",
     "location": "Nigeria",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg/960px-Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153306
   },
@@ -2502,7 +2502,7 @@ const announcedTemples = [
     "templeName": "Busan Korea Temple",
     "location": "South Korea",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg/960px-The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153303
   }
