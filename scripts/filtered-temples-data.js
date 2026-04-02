@@ -5,7 +5,8 @@ const operatingTemples = [
     "dedicated": "November 27, 1919",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/809f567ccf240d2f1c8e457e8c81fbd94ef96759/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 1
+    "templeOrgId": 1,
+    "area": 42100
   },
   {
     "templeName": "Johannesburg South Africa Temple",
@@ -13,7 +14,8 @@ const operatingTemples = [
     "dedicated": "August 24, 1985",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b378c080e5880db5bf2bcf6d828b2f3fd59820de/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 2
+    "templeOrgId": 2,
+    "area": 19184
   },
   {
     "templeName": "Logan Utah Temple",
@@ -21,7 +23,8 @@ const operatingTemples = [
     "dedicated": "May 17, 1884",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/54ac3388abacb11ef04678697a2fc2b6aa0ac4f5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 3
+    "templeOrgId": 3,
+    "area": 119619
   },
   {
     "templeName": "Las Vegas Nevada Temple",
@@ -29,7 +32,8 @@ const operatingTemples = [
     "dedicated": "December 16, 1989",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/34bee57930584d7ae483aa077cbd78e9050330ba/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4
+    "templeOrgId": 4,
+    "area": 80350
   },
   {
     "templeName": "Mexico City Mexico Temple",
@@ -37,7 +41,8 @@ const operatingTemples = [
     "dedicated": "December 2, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2dbb637a01da374959e9b50dd072294645917ea4/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 5
+    "templeOrgId": 5,
+    "area": 116642
   },
   {
     "templeName": "Ogden Utah Temple",
@@ -45,7 +50,8 @@ const operatingTemples = [
     "dedicated": "January 18, 1972",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b001df653b3ca0c2dd39002cabb240b275025cf5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 6
+    "templeOrgId": 6,
+    "area": 112232
   },
   {
     "templeName": "Sydney Australia Temple",
@@ -53,7 +59,8 @@ const operatingTemples = [
     "dedicated": "September 20, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8dd109cda45dda79ebe30b0461d5d0afba41f653/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 9
+    "templeOrgId": 9,
+    "area": 30067
   },
   {
     "templeName": "St. George Utah Temple",
@@ -61,7 +68,8 @@ const operatingTemples = [
     "dedicated": "April 6, 1877",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/215a9dc2298511eeacb9eeeeac1e26338fda42c9/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 10
+    "templeOrgId": 10,
+    "area": 143969
   },
   {
     "templeName": "São Paulo Brazil Temple",
@@ -69,7 +77,8 @@ const operatingTemples = [
     "dedicated": "October 30, 1978",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/940f3e201364433a3d5d3dc14b0cacee38d41d1d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 11
+    "templeOrgId": 11,
+    "area": 59246
   },
   {
     "templeName": "Nuku'alofa Tonga Temple",
@@ -77,7 +86,8 @@ const operatingTemples = [
     "dedicated": "August 9, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/218d9090d4a69494266e658b653714514c155c31/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 12
+    "templeOrgId": 12,
+    "area": 21184
   },
   {
     "templeName": "Nashville Tennessee Temple",
@@ -85,7 +95,8 @@ const operatingTemples = [
     "dedicated": "May 21, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/761062becc8ddd470fd362cbcc8de03cb9c18541/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 13
+    "templeOrgId": 13,
+    "area": 10700
   },
   {
     "templeName": "Papeete Tahiti Temple",
@@ -93,7 +104,8 @@ const operatingTemples = [
     "dedicated": "October 27, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b8a175b549d4b45a0ac5ab6ad42a9a7ff3f415b0/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 14
+    "templeOrgId": 14,
+    "area": 12150
   },
   {
     "templeName": "Tokyo Japan Temple",
@@ -101,7 +113,8 @@ const operatingTemples = [
     "dedicated": "October 27, 1980",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/df6b96801c9f11ec99eeeeeeac1ea2207e7c517b/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 15
+    "templeOrgId": 15,
+    "area": 53997
   },
   {
     "templeName": "Vernal Utah Temple",
@@ -109,7 +122,8 @@ const operatingTemples = [
     "dedicated": "November 2, 1997",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d8c07cd3032b589fba11a8a8ab2bc160949ee735/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 16
+    "templeOrgId": 16,
+    "area": 38771
   },
   {
     "templeName": "Boston Massachusetts Temple",
@@ -117,7 +131,8 @@ const operatingTemples = [
     "dedicated": "October 1, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9e700b82104b6e93ba8d0095d3458564082a781a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 17
+    "templeOrgId": 17,
+    "area": 69600
   },
   {
     "templeName": "Antofagasta Chile Temple",
@@ -125,7 +140,8 @@ const operatingTemples = [
     "dedicated": "June 15, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/e02ad85a9f8a3c4fc4192a1d5a7969a2e3cbfcc7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4119596
+    "templeOrgId": 4119596,
+    "area": 26163
   },
   {
     "templeName": "Mount Timpanogos Utah Temple",
@@ -133,7 +149,8 @@ const operatingTemples = [
     "dedicated": "October 13, 1996",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d6dd0dd4f410f6744a703c43d871a9478de5013a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 18
+    "templeOrgId": 18,
+    "area": 107240
   },
   {
     "templeName": "Preston England Temple",
@@ -141,7 +158,8 @@ const operatingTemples = [
     "dedicated": "June 7, 1998",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f4d04898f81ac94258e161fbc4758e1a59074373/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 19
+    "templeOrgId": 19,
+    "area": 69630
   },
   {
     "templeName": "Moses Lake Washington Temple",
@@ -149,7 +167,8 @@ const operatingTemples = [
     "dedicated": "September 17, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/870578c5fa6f11edb2e2eeeeac1e709e84598271/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4119594
+    "templeOrgId": 4119594,
+    "area": 28933
   },
   {
     "templeName": "St. Louis Missouri Temple",
@@ -157,7 +176,8 @@ const operatingTemples = [
     "dedicated": "June 1, 1997",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/4d19c565d5dd52b8c8581dc536685350dee49856/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 20
+    "templeOrgId": 20,
+    "area": 58749
   },
   {
     "templeName": "Cardston Alberta Temple",
@@ -165,7 +185,8 @@ const operatingTemples = [
     "dedicated": "August 26, 1923",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ebdc56cba8bb11eda23ceeeeac1e7e543b91e9b4/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 21
+    "templeOrgId": 21,
+    "area": 88562
   },
   {
     "templeName": "San Pedro Sula Honduras Temple",
@@ -173,7 +194,8 @@ const operatingTemples = [
     "dedicated": "October 13, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/Usqhjku9xyRSHqRwNaqaXs8ONHRjxnruvehdhtcp/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4119595
+    "templeOrgId": 4119595,
+    "area": 35818
   },
   {
     "templeName": "Mesa Arizona Temple",
@@ -181,7 +203,8 @@ const operatingTemples = [
     "dedicated": "October 23, 1927",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a338f9b0e582f23025658041e5a617029c9be50f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 22
+    "templeOrgId": 22,
+    "area": 75000
   },
   {
     "templeName": "Boise Idaho Temple",
@@ -189,7 +212,8 @@ const operatingTemples = [
     "dedicated": "May 25, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/dbf23acaf84c11ebb042eeeeac1e1a0ec8058a00/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 23
+    "templeOrgId": 23,
+    "area": 35868
   },
   {
     "templeName": "Deseret Peak Utah Temple",
@@ -197,7 +221,8 @@ const operatingTemples = [
     "dedicated": "November 10, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/tlt3bx603mu8w1gzxwx5eyw8f5yt3qk47spco3yd/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4119593
+    "templeOrgId": 4119593,
+    "area": 71998
   },
   {
     "templeName": "Chicago Illinois Temple",
@@ -205,7 +230,8 @@ const operatingTemples = [
     "dedicated": "August 9, 1985",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5dcf1ba0e76511eca9fbeeeeac1e06cbebd2c32a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 24
+    "templeOrgId": 24,
+    "area": 37062
   },
   {
     "templeName": "Kansas City Missouri Temple",
@@ -213,7 +239,8 @@ const operatingTemples = [
     "dedicated": "May 6, 2012",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/24834bec921708cdada7bbd4c350f1a9267697cf/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005413
+    "templeOrgId": 4005413,
+    "area": 32000
   },
   {
     "templeName": "Córdoba Argentina Temple",
@@ -221,7 +248,8 @@ const operatingTemples = [
     "dedicated": "May 17, 2015",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/47f77971f2ad3eb7013b86d2f14e1e491333566c/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005412
+    "templeOrgId": 4005412,
+    "area": 34369
   },
   {
     "templeName": "Denver Colorado Temple",
@@ -229,7 +257,8 @@ const operatingTemples = [
     "dedicated": "October 24, 1986",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/cc479dc2aad6195d816ce9920fa214f7f4bc7f60/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 25
+    "templeOrgId": 25,
+    "area": 29117
   },
   {
     "templeName": "Okinawa Japan Temple",
@@ -237,7 +266,8 @@ const operatingTemples = [
     "dedicated": "November 12, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/99f1e63f202511eeb116eeeeac1ef1e8603f51a8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4119591
+    "templeOrgId": 4119591,
+    "area": 12437
   },
   {
     "templeName": "Frankfurt Germany Temple",
@@ -245,7 +275,8 @@ const operatingTemples = [
     "dedicated": "August 28, 1987",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/53cd8f853566e3d1fbb7a7619801ff4481dba7a6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 26
+    "templeOrgId": 26,
+    "area": 32895
   },
   {
     "templeName": "Rome Italy Temple",
@@ -253,7 +284,8 @@ const operatingTemples = [
     "dedicated": "March 10, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/17e2c70d687fffedfe115197e57fa8f5d1d369bb/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005415
+    "templeOrgId": 4005415,
+    "area": 41010
   },
   {
     "templeName": "Madrid Spain Temple",
@@ -261,7 +293,8 @@ const operatingTemples = [
     "dedicated": "March 19, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/93fe327ea5a8f82b20a48e283e51dc32f57ba148/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 27
+    "templeOrgId": 27,
+    "area": 45800
   },
   {
     "templeName": "Philadelphia Pennsylvania Temple",
@@ -269,7 +302,8 @@ const operatingTemples = [
     "dedicated": "September 18, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c727b5bbc1ccd152cc0f39bb139e92b3d553a5ca/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005414
+    "templeOrgId": 4005414,
+    "area": 61466
   },
   {
     "templeName": "Apia Samoa Temple",
@@ -277,7 +311,8 @@ const operatingTemples = [
     "dedicated": "August 5, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/6007b20e832459d2d8540c15a8f5fa80d7dcff0f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 28
+    "templeOrgId": 28,
+    "area": 18691
   },
   {
     "templeName": "Tuxtla Gutiérrez Mexico Temple",
@@ -285,7 +320,8 @@ const operatingTemples = [
     "dedicated": "March 12, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/924c675fc1458a2591e5db14e3ef826daec6ae5f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 37916
+    "templeOrgId": 37916,
+    "area": 10700
   },
   {
     "templeName": "Atlanta Georgia Temple",
@@ -293,7 +329,8 @@ const operatingTemples = [
     "dedicated": "June 1, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2f38e41532b2b5529266317c51193b68fdcf81d5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 29
+    "templeOrgId": 29,
+    "area": 34500
   },
   {
     "templeName": "Buenos Aires Argentina Temple",
@@ -301,7 +338,8 @@ const operatingTemples = [
     "dedicated": "January 17, 1986",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a3454a8b72b4cc972b3898805ec69cc901a89170/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 30
+    "templeOrgId": 30,
+    "area": 30659
   },
   {
     "templeName": "Calgary Alberta Temple",
@@ -309,7 +347,8 @@ const operatingTemples = [
     "dedicated": "October 28, 2012",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/eafebe542f696c22dd64a03e622990b9a191c411/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005411
+    "templeOrgId": 4005411,
+    "area": 33000
   },
   {
     "templeName": "Bogotá Colombia Temple",
@@ -317,7 +356,8 @@ const operatingTemples = [
     "dedicated": "April 24, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/89b209718a7ed41649a497893e240972b7cfd036/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 31
+    "templeOrgId": 31,
+    "area": 53500
   },
   {
     "templeName": "Bountiful Utah Temple",
@@ -325,7 +365,8 @@ const operatingTemples = [
     "dedicated": "January 8, 1995",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0ef41c19f3cd8113dba38d4dfdca16a5d06cdcd5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 32
+    "templeOrgId": 32,
+    "area": 104000
   },
   {
     "templeName": "Dallas Texas Temple",
@@ -333,7 +374,8 @@ const operatingTemples = [
     "dedicated": "October 19, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c853d3386e74f389bb61d29d08feb2243aedde77/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 33
+    "templeOrgId": 33,
+    "area": 44207
   },
   {
     "templeName": "Freiberg Germany Temple",
@@ -341,7 +383,8 @@ const operatingTemples = [
     "dedicated": "June 29, 1985",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0dfd23ae4f947c0a0a505e5c142de5ee2c51d91c/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 35
+    "templeOrgId": 35,
+    "area": 21500
   },
   {
     "templeName": "Guatemala City Guatemala Temple",
@@ -349,7 +392,8 @@ const operatingTemples = [
     "dedicated": "December 14, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/4ff985daa77b7f309360c884660244a965f9e8a4/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36
+    "templeOrgId": 36,
+    "area": 11610
   },
   {
     "templeName": "Guayaquil Ecuador Temple",
@@ -357,7 +401,8 @@ const operatingTemples = [
     "dedicated": "August 1, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b6e397f7a6c219442a9987bcd8c92ff78c5d50a6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 37
+    "templeOrgId": 37,
+    "area": 45000
   },
   {
     "templeName": "Idaho Falls Idaho Temple",
@@ -365,7 +410,8 @@ const operatingTemples = [
     "dedicated": "September 23, 1945",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c5c1115d68bb7c292e1cc60ee39f2e6b406ad70b/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38
+    "templeOrgId": 38,
+    "area": 85624
   },
   {
     "templeName": "Jordan River Utah Temple",
@@ -373,7 +419,8 @@ const operatingTemples = [
     "dedicated": "November 16, 1981",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/87cb982259d1103385e7d2a0e07f41a0954eb4f8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 39
+    "templeOrgId": 39,
+    "area": 148236
   },
   {
     "templeName": "Los Angeles California Temple",
@@ -381,7 +428,8 @@ const operatingTemples = [
     "dedicated": "March 11, 1956",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f776300d2f59a0d25045f45d961c326a7ae080d8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 40
+    "templeOrgId": 40,
+    "area": 190614
   },
   {
     "templeName": "London England Temple",
@@ -389,7 +437,8 @@ const operatingTemples = [
     "dedicated": "September 7, 1958",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/914ec5701c2435b4cfa50668de85df2aebf68f26/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 41
+    "templeOrgId": 41,
+    "area": 42652
   },
   {
     "templeName": "Lima Peru Temple",
@@ -397,7 +446,8 @@ const operatingTemples = [
     "dedicated": "January 10, 1986",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b800f5245ce311fb987aabd6ee6b2230b7c8b04f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 42
+    "templeOrgId": 42,
+    "area": 9600
   },
   {
     "templeName": "Manti Utah Temple",
@@ -405,7 +455,8 @@ const operatingTemples = [
     "dedicated": "May 21, 1888",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d9c313eb96c173d0ad32f21f461ce994129c9e8d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43
+    "templeOrgId": 43,
+    "area": 74792
   },
   {
     "templeName": "Nauvoo Illinois Temple",
@@ -413,7 +464,8 @@ const operatingTemples = [
     "dedicated": "June 27, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/04d0f7f577ff089808b71b864e1f58b2e877a124/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 44
+    "templeOrgId": 44,
+    "area": 54000
   },
   {
     "templeName": "Hamilton New Zealand Temple",
@@ -421,7 +473,8 @@ const operatingTemples = [
     "dedicated": "April 20, 1958",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2ff304d05520229fae54c290f936ba01b20173e5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 45
+    "templeOrgId": 45,
+    "area": 45251
   },
   {
     "templeName": "Oakland California Temple",
@@ -429,7 +482,8 @@ const operatingTemples = [
     "dedicated": "November 17, 1964",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f7e41833760fae68fefaf157b7a8558e1aa1a2a7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 46
+    "templeOrgId": 46,
+    "area": 80157
   },
   {
     "templeName": "Seattle Washington Temple",
@@ -437,7 +491,8 @@ const operatingTemples = [
     "dedicated": "November 17, 1980",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/02bc5fa239bfc78d3fdc3da6d851d95c65d054d3/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 48
+    "templeOrgId": 48,
+    "area": 110000
   },
   {
     "templeName": "Santiago Chile Temple",
@@ -445,7 +500,8 @@ const operatingTemples = [
     "dedicated": "September 15, 1983",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b6becb4ca0c60a52ad5dc57a90ec69fe5fe7ec63/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 50
+    "templeOrgId": 50,
+    "area": 20831
   },
   {
     "templeName": "Seoul Korea Temple",
@@ -453,7 +509,8 @@ const operatingTemples = [
     "dedicated": "December 14, 1985",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/57efcc4b6a1c664c934aa672b0f8de38a8f539c4/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 51
+    "templeOrgId": 51,
+    "area": 28057
   },
   {
     "templeName": "Bern Switzerland Temple",
@@ -461,7 +518,8 @@ const operatingTemples = [
     "dedicated": "September 11, 1955",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a2c415301c7991e2e10059b5ec588a28785917b0/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 52
+    "templeOrgId": 52,
+    "area": 35546
   },
   {
     "templeName": "Mérida Mexico Temple",
@@ -469,7 +527,8 @@ const operatingTemples = [
     "dedicated": "July 8, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/740845e883664b738aef0310edac9ee889135501/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36916
+    "templeOrgId": 36916,
+    "area": 10700
   },
   {
     "templeName": "Taipei Taiwan Temple",
@@ -477,7 +536,8 @@ const operatingTemples = [
     "dedicated": "November 17, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/292ab7814b6355ac40236fbc39eb1a4ed8c058a7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 53
+    "templeOrgId": 53,
+    "area": 9945
   },
   {
     "templeName": "Washington D.C. Temple",
@@ -485,7 +545,8 @@ const operatingTemples = [
     "dedicated": "November 19, 1974",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9bbc2a18ee4b11eb90efeeeeac1e68824aabff60/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 54
+    "templeOrgId": 54,
+    "area": 156558
   },
   {
     "templeName": "Hong Kong China Temple",
@@ -493,7 +554,8 @@ const operatingTemples = [
     "dedicated": "May 26, 1996",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/cd518a59ee7511eca935eeeeac1ecdb94609c80b/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 55
+    "templeOrgId": 55,
+    "area": 51921
   },
   {
     "templeName": "Cochabamba Bolivia Temple",
@@ -501,7 +563,8 @@ const operatingTemples = [
     "dedicated": "April 30, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/e012ebb4075dc7976a314471fc0a3b3058e37c1a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 56
+    "templeOrgId": 56,
+    "area": 35500
   },
   {
     "templeName": "Recife Brazil Temple",
@@ -509,7 +572,8 @@ const operatingTemples = [
     "dedicated": "December 15, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/74d57cefebf31773df61b0b882067ee236de5279/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 57
+    "templeOrgId": 57,
+    "area": 37200
   },
   {
     "templeName": "Billings Montana Temple",
@@ -517,7 +581,8 @@ const operatingTemples = [
     "dedicated": "November 20, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/6dcc34be2bfb4a3c2fc01cefb08f51404ef65d4d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 58
+    "templeOrgId": 58,
+    "area": 33800
   },
   {
     "templeName": "Manila Philippines Temple",
@@ -525,7 +590,8 @@ const operatingTemples = [
     "dedicated": "September 25, 1984",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/cf62ebb59aefa1d2856981fb77574fb9982c5fad/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 59
+    "templeOrgId": 59,
+    "area": 26683
   },
   {
     "templeName": "Monterrey Mexico Temple",
@@ -533,7 +599,8 @@ const operatingTemples = [
     "dedicated": "April 28, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5c22836ac5e36d099a131d686b0850eb22e1a0e8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 60
+    "templeOrgId": 60,
+    "area": 16498
   },
   {
     "templeName": "Portland Oregon Temple",
@@ -541,7 +608,8 @@ const operatingTemples = [
     "dedicated": "August 19, 1989",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/91ee64d1750b013886f11c27f2c87c5535f5cbad/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 63
+    "templeOrgId": 63,
+    "area": 80500
   },
   {
     "templeName": "Santo Domingo Dominican Republic Temple",
@@ -549,7 +617,8 @@ const operatingTemples = [
     "dedicated": "September 17, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bd7519e3369d1f82b7470f7d16f1ab92504246b1/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 65
+    "templeOrgId": 65,
+    "area": 67000
   },
   {
     "templeName": "Cobán Guatemala Temple",
@@ -557,7 +626,8 @@ const operatingTemples = [
     "dedicated": "June 9, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/4b129a33b4b311ee9c99eeeeac1e820ae5a7a3bb/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4124796
+    "templeOrgId": 4124796,
+    "area": 8772
   },
   {
     "templeName": "Taylorsville Utah Temple",
@@ -565,7 +635,8 @@ const operatingTemples = [
     "dedicated": "June 2, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/08db56099dce11eeaccceeeeac1eec0900fabbe8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4124797
+    "templeOrgId": 4124797,
+    "area": 73492
   },
   {
     "templeName": "Toronto Ontario Temple",
@@ -573,7 +644,8 @@ const operatingTemples = [
     "dedicated": "August 25, 1990",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/hc8192dqhhobc8575o12j35f28hjhmtk1zx9d7px/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 67
+    "templeOrgId": 67,
+    "area": 55558
   },
   {
     "templeName": "Caracas Venezuela Temple",
@@ -581,7 +653,8 @@ const operatingTemples = [
     "dedicated": "August 20, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5358fcd9eafe59917f2deaccb97c6b6308640b7a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 68
+    "templeOrgId": 68,
+    "area": 15332
   },
   {
     "templeName": "McAllen Texas Temple",
@@ -589,7 +662,8 @@ const operatingTemples = [
     "dedicated": "October 8, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/51edc593152e11ee90afeeeeac1ef99dfe5ba797/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4124795
+    "templeOrgId": 4124795,
+    "area": 27897
   },
   {
     "templeName": "Bentonville Arkansas Temple",
@@ -597,7 +671,8 @@ const operatingTemples = [
     "dedicated": "September 17, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/34410870d7d011ed8402eeeeac1ec672bdc0ce45/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4124793
+    "templeOrgId": 4124793,
+    "area": 28472
   },
   {
     "templeName": "Orem Utah Temple",
@@ -605,7 +680,8 @@ const operatingTemples = [
     "dedicated": "January 21, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/071079264cd111eeb455eeeeac1eb5a4c7edde59/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4124791
+    "templeOrgId": 4124791,
+    "area": 71998
   },
   {
     "templeName": "Panama City Panama Temple",
@@ -613,7 +689,8 @@ const operatingTemples = [
     "dedicated": "August 10, 2008",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8c9a8135ae6962307b0150233443cb45b40673f4/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 69207
+    "templeOrgId": 69207,
+    "area": 18943
   },
   {
     "templeName": "Curitiba Brazil Temple",
@@ -621,7 +698,8 @@ const operatingTemples = [
     "dedicated": "June 1, 2008",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ea7e0f39c8e26d163a4dfedfcb1ce5c41d650b5b/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 69206
+    "templeOrgId": 69206,
+    "area": 27850
   },
   {
     "templeName": "San Antonio Texas Temple",
@@ -629,7 +707,8 @@ const operatingTemples = [
     "dedicated": "May 22, 2005",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/1dc0b8602087f0f95c062dd122dd45e080d25432/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 46179
+    "templeOrgId": 46179,
+    "area": 16800
   },
   {
     "templeName": "Monticello Utah Temple",
@@ -637,7 +716,8 @@ const operatingTemples = [
     "dedicated": "July 26, 1998",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/00b60393731fd52ea05f41d561df6baa573c9905/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36462
+    "templeOrgId": 36462,
+    "area": 11225
   },
   {
     "templeName": "Baton Rouge Louisiana Temple",
@@ -645,7 +725,8 @@ const operatingTemples = [
     "dedicated": "July 16, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a75beca22300a3263bd47fba03b5b0d1b5ca0753/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36984
+    "templeOrgId": 36984,
+    "area": 10890
   },
   {
     "templeName": "Birmingham Alabama Temple",
@@ -653,7 +734,8 @@ const operatingTemples = [
     "dedicated": "September 3, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/26997a0eac228b51de04df861686ccc0cb3bbf92/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36985
+    "templeOrgId": 36985,
+    "area": 10700
   },
   {
     "templeName": "Melbourne Australia Temple",
@@ -661,7 +743,8 @@ const operatingTemples = [
     "dedicated": "June 16, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/48e36732ca023c6cbe859be980617e4ca2cebe2a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36986
+    "templeOrgId": 36986,
+    "area": 10700
   },
   {
     "templeName": "Columbia South Carolina Temple",
@@ -669,7 +752,8 @@ const operatingTemples = [
     "dedicated": "October 16, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/4aefedd5ef026ce77d6122bb415ee9d937979733/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36987
+    "templeOrgId": 36987,
+    "area": 10700
   },
   {
     "templeName": "Memphis Tennessee Temple",
@@ -677,7 +761,8 @@ const operatingTemples = [
     "dedicated": "April 23, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/99e615dbbcc2021f6781fa0e2af8b2db239c4b11/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36988
+    "templeOrgId": 36988,
+    "area": 10890
   },
   {
     "templeName": "Montevideo Uruguay Temple",
@@ -685,7 +770,8 @@ const operatingTemples = [
     "dedicated": "March 18, 2001",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7dqbfpkm3mnualv3l4oiqk913qdq5460xrd98epx/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36989
+    "templeOrgId": 36989,
+    "area": 10700
   },
   {
     "templeName": "Villahermosa Mexico Temple",
@@ -693,7 +779,8 @@ const operatingTemples = [
     "dedicated": "May 21, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2dcaf6bdc04d42202ad48d580bcf9b0b15cf5550/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36991
+    "templeOrgId": 36991,
+    "area": 10700
   },
   {
     "templeName": "Vancouver British Columbia Temple",
@@ -701,7 +788,8 @@ const operatingTemples = [
     "dedicated": "May 2, 2010",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d33a3407f39612a343f6f1ac26c59e0c00db4296/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007091
+    "templeOrgId": 4007091,
+    "area": 28165
   },
   {
     "templeName": "Cedar City Utah Temple",
@@ -709,7 +797,8 @@ const operatingTemples = [
     "dedicated": "December 10, 2017",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b695ca6f1c809684160e59dd5724a4f68ef99448/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4028590
+    "templeOrgId": 4028590,
+    "area": 42657
   },
   {
     "templeName": "Manaus Brazil Temple",
@@ -717,7 +806,8 @@ const operatingTemples = [
     "dedicated": "June 10, 2012",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f758727dc0cd20dc24845be6e5810f81e400d603/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 79543
+    "templeOrgId": 79543,
+    "area": 32032
   },
   {
     "templeName": "Aba Nigeria Temple",
@@ -725,7 +815,8 @@ const operatingTemples = [
     "dedicated": "August 7, 2005",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7210c09be95c4474772ae52e5f31c23c08112784/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43202
+    "templeOrgId": 43202,
+    "area": 11500
   },
   {
     "templeName": "Helsinki Finland Temple",
@@ -733,7 +824,8 @@ const operatingTemples = [
     "dedicated": "October 22, 2006",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f46bd40ab80c3371019f5f4ecc78680b4660e1c2/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43203
+    "templeOrgId": 43203,
+    "area": 16350
   },
   {
     "templeName": "Asunción Paraguay Temple",
@@ -741,7 +833,8 @@ const operatingTemples = [
     "dedicated": "May 19, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/68dfd881f93cb86e99828aa547eac056189c55ff/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43204
+    "templeOrgId": 43204,
+    "area": 11906
   },
   {
     "templeName": "Accra Ghana Temple",
@@ -749,7 +842,8 @@ const operatingTemples = [
     "dedicated": "January 11, 2004",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7cf8e8b9e5a5a1f379d4e2c9bc2166f9c6007aca/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36549
+    "templeOrgId": 36549,
+    "area": 17500
   },
   {
     "templeName": "Lubbock Texas Temple",
@@ -757,7 +851,8 @@ const operatingTemples = [
     "dedicated": "April 21, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0a2a0bbc531e85cbf43b72ed000e549bbf59d790/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43205
+    "templeOrgId": 43205,
+    "area": 16498
   },
   {
     "templeName": "Albuquerque New Mexico Temple",
@@ -765,7 +860,8 @@ const operatingTemples = [
     "dedicated": "March 5, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d7744ff190d8fec7615a2f5b0d5e2b1813ba32d6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36550
+    "templeOrgId": 36550,
+    "area": 34245
   },
   {
     "templeName": "Snowflake Arizona Temple",
@@ -773,7 +869,8 @@ const operatingTemples = [
     "dedicated": "March 3, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/63ee0de38ed3430d92daeecaa5e200ed72dc26d9/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43206
+    "templeOrgId": 43206,
+    "area": 18621
   },
   {
     "templeName": "Anchorage Alaska Temple",
@@ -781,7 +878,8 @@ const operatingTemples = [
     "dedicated": "January 9, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ef1d9b0a65b398d3d5aad2ccaad5aa79588b6cfd/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36551
+    "templeOrgId": 36551,
+    "area": 11937
   },
   {
     "templeName": "Columbia River Washington Temple",
@@ -789,7 +887,8 @@ const operatingTemples = [
     "dedicated": "November 18, 2001",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a4b69ff6daf25c70235e2823612a01872a7b2abc/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 43207
+    "templeOrgId": 43207,
+    "area": 16880
   },
   {
     "templeName": "Bismarck North Dakota Temple",
@@ -797,7 +896,8 @@ const operatingTemples = [
     "dedicated": "September 19, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b35f919a37ee792f1283e5a76e993dea8fd68d13/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36552
+    "templeOrgId": 36552,
+    "area": 10700
   },
   {
     "templeName": "Brisbane Australia Temple",
@@ -805,7 +905,8 @@ const operatingTemples = [
     "dedicated": "June 15, 2003",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/28f8485c143afac0623e026608261d761be828d9/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36553
+    "templeOrgId": 36553,
+    "area": 10700
   },
   {
     "templeName": "Campinas Brazil Temple",
@@ -813,7 +914,8 @@ const operatingTemples = [
     "dedicated": "May 17, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c9a81a6f86750d7d9ade3499d3df52e2f7f726a7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36554
+    "templeOrgId": 36554,
+    "area": 48100
   },
   {
     "templeName": "Ciudad Juárez Mexico Temple",
@@ -821,7 +923,8 @@ const operatingTemples = [
     "dedicated": "February 26, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b8280841d672858dc62bd729092aa6168ab00100/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36555
+    "templeOrgId": 36555,
+    "area": 10700
   },
   {
     "templeName": "Colonia Juárez Chihuahua Mexico Temple",
@@ -829,7 +932,8 @@ const operatingTemples = [
     "dedicated": "March 6, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9130468c8099ce6d57d408945a4d94ebc97d969a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36556
+    "templeOrgId": 36556,
+    "area": 6800
   },
   {
     "templeName": "Columbus Ohio Temple",
@@ -837,7 +941,8 @@ const operatingTemples = [
     "dedicated": "September 4, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/46fda163a1ab11edac63eeeeac1ed71e54c1cdcd/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36557
+    "templeOrgId": 36557,
+    "area": 11745
   },
   {
     "templeName": "Edmonton Alberta Temple",
@@ -845,7 +950,8 @@ const operatingTemples = [
     "dedicated": "December 11, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/eed1439015e47d43916bc7c9701d9c32e71c67cc/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36558
+    "templeOrgId": 36558,
+    "area": 10700
   },
   {
     "templeName": "Fukuoka Japan Temple",
@@ -853,7 +959,8 @@ const operatingTemples = [
     "dedicated": "June 11, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/6e3b7b6a40037766aec369a9a3380aed9a963cec/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36559
+    "templeOrgId": 36559,
+    "area": 10700
   },
   {
     "templeName": "Halifax Nova Scotia Temple",
@@ -861,7 +968,8 @@ const operatingTemples = [
     "dedicated": "November 14, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bd5a1eef0d9d6a6dbdb3f26955218001aeeb3d4d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36560
+    "templeOrgId": 36560,
+    "area": 10700
   },
   {
     "templeName": "Hermosillo Sonora Mexico Temple",
@@ -869,7 +977,8 @@ const operatingTemples = [
     "dedicated": "February 27, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/cba0fa28d0682caa31b2f24e506b4261fb000883/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36561
+    "templeOrgId": 36561,
+    "area": 10769
   },
   {
     "templeName": "Houston Texas Temple",
@@ -877,7 +986,8 @@ const operatingTemples = [
     "dedicated": "August 26, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/65bc8aa26913ef6a8302e6e73099c4bd0b57c60b/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36562
+    "templeOrgId": 36562,
+    "area": 33970
   },
   {
     "templeName": "Kyiv Ukraine Temple",
@@ -885,7 +995,8 @@ const operatingTemples = [
     "dedicated": "August 29, 2010",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d0508e0ecf1c6d995baee78f23989e4871b613e6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36563
+    "templeOrgId": 36563,
+    "area": 22184
   },
   {
     "templeName": "Montreal Quebec Temple",
@@ -893,7 +1004,8 @@ const operatingTemples = [
     "dedicated": "June 4, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/e7170d6c20f37f275c8df2082f67888b36c3dd01/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36565
+    "templeOrgId": 36565,
+    "area": 11550
   },
   {
     "templeName": "Porto Alegre Brazil Temple",
@@ -901,7 +1013,8 @@ const operatingTemples = [
     "dedicated": "December 17, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8b7f7031cc837345a3638255f73ad8df9b9ed693/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36566
+    "templeOrgId": 36566,
+    "area": 13325
   },
   {
     "templeName": "Regina Saskatchewan Temple",
@@ -909,7 +1022,8 @@ const operatingTemples = [
     "dedicated": "November 14, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/20dea9189bd7f3d6b2d0c1e9cc2c38f812d7b1e5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36567
+    "templeOrgId": 36567,
+    "area": 10700
   },
   {
     "templeName": "St. Paul Minnesota Temple",
@@ -917,7 +1031,8 @@ const operatingTemples = [
     "dedicated": "January 9, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9tlz7rxr2wikctyky70x8z2ug72vp40cd1riej95/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36568
+    "templeOrgId": 36568,
+    "area": 11411
   },
   {
     "templeName": "Suva Fiji Temple",
@@ -925,7 +1040,8 @@ const operatingTemples = [
     "dedicated": "June 18, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/dd095f798970c078795b19c71be29794f273561c/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36569
+    "templeOrgId": 36569,
+    "area": 12755
   },
   {
     "templeName": "Tampico Mexico Temple",
@@ -933,7 +1049,8 @@ const operatingTemples = [
     "dedicated": "May 20, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/30ed2207120140ad2d331c90594fb24e9139ea53/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36570
+    "templeOrgId": 36570,
+    "area": 10700
   },
   {
     "templeName": "Tijuana Mexico Temple",
@@ -941,7 +1058,8 @@ const operatingTemples = [
     "dedicated": "December 13, 2015",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/d3082bac914b5045a3b1517b6fa25c587bf5fd42/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4009693
+    "templeOrgId": 4009693,
+    "area": 33367
   },
   {
     "templeName": "Hartford Connecticut Temple",
@@ -949,7 +1067,8 @@ const operatingTemples = [
     "dedicated": "November 20, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/29bbbf0d7052177efc5cc22908d11aea43d52044/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4009692
+    "templeOrgId": 4009692,
+    "area": 32246
   },
   {
     "templeName": "Lisbon Portugal Temple",
@@ -957,7 +1076,8 @@ const operatingTemples = [
     "dedicated": "September 15, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/6d84eb0301da0baca818212965160d2db12879c1/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4009689
+    "templeOrgId": 4009689,
+    "area": 23730
   },
   {
     "templeName": "Spokane Washington Temple",
@@ -965,7 +1085,8 @@ const operatingTemples = [
     "dedicated": "August 21, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0aac4d049a074897419ec63f41171d50ca0e3993/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36582
+    "templeOrgId": 36582,
+    "area": 10700
   },
   {
     "templeName": "Urdaneta Philippines Temple",
@@ -973,7 +1094,8 @@ const operatingTemples = [
     "dedicated": "April 28, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/46910789b4c911eeaf5feeeeac1ed77e9a30ef3f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4009691
+    "templeOrgId": 4009691,
+    "area": 32604
   },
   {
     "templeName": "Detroit Michigan Temple",
@@ -981,7 +1103,8 @@ const operatingTemples = [
     "dedicated": "October 23, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/3c9f57ee5c391a678c67c60125449a6ba8dd7b29/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36583
+    "templeOrgId": 36583,
+    "area": 10700
   },
   {
     "templeName": "Indianapolis Indiana Temple",
@@ -989,7 +1112,8 @@ const operatingTemples = [
     "dedicated": "August 23, 2015",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/fa48fbd0ab3c56637b99a176aaa99eadf83d209c/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4009690
+    "templeOrgId": 4009690,
+    "area": 34000
   },
   {
     "templeName": "Tegucigalpa Honduras Temple",
@@ -997,7 +1121,8 @@ const operatingTemples = [
     "dedicated": "March 17, 2013",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5eafb4407decaf72553241072f38e2003df39658/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 77556
+    "templeOrgId": 77556,
+    "area": 28254
   },
   {
     "templeName": "Raleigh North Carolina Temple",
@@ -1005,7 +1130,8 @@ const operatingTemples = [
     "dedicated": "December 18, 1999",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/83ddf01d389928892e38cac8f2865b16a8649e17/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 36603
+    "templeOrgId": 36603,
+    "area": 12864
   },
   {
     "templeName": "Rio de Janeiro Brazil Temple",
@@ -1013,7 +1139,8 @@ const operatingTemples = [
     "dedicated": "May 8, 2022",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/001db7326e638032470a02813c9e47191ef74b0e/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4028611
+    "templeOrgId": 4028611,
+    "area": 29966
   },
   {
     "templeName": "San Salvador El Salvador Temple",
@@ -1021,7 +1148,8 @@ const operatingTemples = [
     "dedicated": "August 21, 2011",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8c084fef6033bfd96c430cec43236af0b41740f5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4004669
+    "templeOrgId": 4004669,
+    "area": 27986
   },
   {
     "templeName": "The Hague Netherlands Temple",
@@ -1029,7 +1157,8 @@ const operatingTemples = [
     "dedicated": "September 8, 2002",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/3aedbae4240b4c09f5286429c9e6303f530a665d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 40705
+    "templeOrgId": 40705,
+    "area": 14477
   },
   {
     "templeName": "Gilbert Arizona Temple",
@@ -1037,7 +1166,8 @@ const operatingTemples = [
     "dedicated": "March 2, 2014",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/33e19ea3cba5f4aa250fab5e170af503d7bf667f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4004671
+    "templeOrgId": 4004671,
+    "area": 85326
   },
   {
     "templeName": "The Gila Valley Arizona Temple",
@@ -1045,7 +1175,8 @@ const operatingTemples = [
     "dedicated": "May 23, 2010",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b4f5c9e373295ff90cf32369f5efbc13d73285d6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4004670
+    "templeOrgId": 4004670,
+    "area": 18561
   },
   {
     "templeName": "Twin Falls Idaho Temple",
@@ -1053,7 +1184,8 @@ const operatingTemples = [
     "dedicated": "August 24, 2008",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/455e06d2e9cd169f20910e747d8417ab7e2d3d47/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 75531
+    "templeOrgId": 75531,
+    "area": 31245
   },
   {
     "templeName": "Winter Quarters Nebraska Temple",
@@ -1061,7 +1193,8 @@ const operatingTemples = [
     "dedicated": "April 22, 2001",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/cc1ed5eb420f25a1bf6338781592eb9b8bbdb437/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 40202
+    "templeOrgId": 40202,
+    "area": 16000
   },
   {
     "templeName": "Draper Utah Temple",
@@ -1069,7 +1202,8 @@ const operatingTemples = [
     "dedicated": "March 20, 2009",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/dca32cd633382f896137f45e1af4088adf7fb310/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 75530
+    "templeOrgId": 75530,
+    "area": 58300
   },
   {
     "templeName": "Perth Australia Temple",
@@ -1077,7 +1211,8 @@ const operatingTemples = [
     "dedicated": "May 20, 2001",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2487cd627a110735aaa3195227f5991db9d4dadd/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 40203
+    "templeOrgId": 40203,
+    "area": 10700
   },
   {
     "templeName": "Lima Peru Los Olivos Temple",
@@ -1085,7 +1220,8 @@ const operatingTemples = [
     "dedicated": "January 14, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/3f3327a93b9f11eeb2f0eeeeac1e45f6554046d6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4086056
+    "templeOrgId": 4086056,
+    "area": 47413
   },
   {
     "templeName": "Quito Ecuador Temple",
@@ -1093,7 +1229,8 @@ const operatingTemples = [
     "dedicated": "November 20, 2022",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/490df500d14611ec90efeeeeac1ee7e67e80c168/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4086054
+    "templeOrgId": 4086054,
+    "area": 36780
   },
   {
     "templeName": "Veracruz Mexico Temple",
@@ -1101,7 +1238,8 @@ const operatingTemples = [
     "dedicated": "July 9, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7912c0516d806e53855863d40d426412ca2e5836/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38680
+    "templeOrgId": 38680,
+    "area": 10700
   },
   {
     "templeName": "Belém Brazil Temple",
@@ -1109,7 +1247,8 @@ const operatingTemples = [
     "dedicated": "November 20, 2022",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/588d3a27e2b911ec94adeeeeac1e0a0694f432a0/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4086055
+    "templeOrgId": 4086055,
+    "area": 28675
   },
   {
     "templeName": "Reno Nevada Temple",
@@ -1117,7 +1256,8 @@ const operatingTemples = [
     "dedicated": "April 23, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bbe896255f1b696ee5b1ac7f1b40acf5a270a89d/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38681
+    "templeOrgId": 38681,
+    "area": 10700
   },
   {
     "templeName": "Guadalajara Mexico Temple",
@@ -1125,7 +1265,8 @@ const operatingTemples = [
     "dedicated": "April 29, 2001",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/a1fb15c2f9532c712eaa069cdfd9d23c63f910d9/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38682
+    "templeOrgId": 38682,
+    "area": 10700
   },
   {
     "templeName": "Harare Zimbabwe Temple",
@@ -1133,7 +1274,8 @@ const operatingTemples = [
     "dedicated": "March 1, 2026",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/13d2f6cf147a36f20e52890a7d46c054541a5357/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4086053
+    "templeOrgId": 4086053,
+    "area": 17247
   },
   {
     "templeName": "Trujillo Peru Temple",
@@ -1141,7 +1283,8 @@ const operatingTemples = [
     "dedicated": "June 21, 2015",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9943a99ff243f011c0533e3633cf9ecee0829628/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4005658
+    "templeOrgId": 4005658,
+    "area": 28200
   },
   {
     "templeName": "Elko Nevada Temple",
@@ -1149,7 +1292,8 @@ const operatingTemples = [
     "dedicated": "October 12, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/jgi73fw8hvn8p7x5g43iahh9nb3vwcj3agi33i7r/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138367
+    "templeOrgId": 4138367,
+    "area": 12901
   },
   {
     "templeName": "Salta Argentina Temple",
@@ -1157,7 +1301,8 @@ const operatingTemples = [
     "dedicated": "June 16, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8997d67ecc3011eebfd1eeeeac1e4e2f81a7e639/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4108670
+    "templeOrgId": 4108670,
+    "area": 27000
   },
   {
     "templeName": "Burley Idaho Temple",
@@ -1165,7 +1310,8 @@ const operatingTemples = [
     "dedicated": "January 11, 2026",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9c4531bb1adc11ecbd09eeeeac1ec23d4f6a8a8a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138365
+    "templeOrgId": 4138365,
+    "area": 45300
   },
   {
     "templeName": "Farmington New Mexico Temple",
@@ -1173,7 +1319,8 @@ const operatingTemples = [
     "dedicated": "August 17, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5iz30fn5yrwi4ek01afs09wzqqcdw7cwcyi4e7ps/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138364
+    "templeOrgId": 4138364,
+    "area": 29066
   },
   {
     "templeName": "Grand Junction Colorado Temple",
@@ -1181,7 +1328,8 @@ const operatingTemples = [
     "dedicated": "October 19, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/n234f2c89ig7tt8uqokudt1wg5pb9dbbm8gxpjvt/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138363
+    "templeOrgId": 4138363,
+    "area": 29630
   },
   {
     "templeName": "Casper Wyoming Temple",
@@ -1189,7 +1337,8 @@ const operatingTemples = [
     "dedicated": "November 24, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bb74748cc5e811eeaea1eeeeac1e060ff4c1e350/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138362
+    "templeOrgId": 4138362,
+    "area": 9950
   },
   {
     "templeName": "Helena Montana Temple",
@@ -1197,7 +1346,8 @@ const operatingTemples = [
     "dedicated": "June 18, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/12b539bbeb6e11eda7c9eeeeac1eac0a8ada7139/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4138361
+    "templeOrgId": 4138361,
+    "area": 9794
   },
   {
     "templeName": "Sacramento California Temple",
@@ -1205,7 +1355,8 @@ const operatingTemples = [
     "dedicated": "September 3, 2006",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f44fa0d21e44659d9a141e0dccb552a057cdae58/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 45901
+    "templeOrgId": 45901,
+    "area": 19500
   },
   {
     "templeName": "Redlands California Temple",
@@ -1213,7 +1364,8 @@ const operatingTemples = [
     "dedicated": "September 14, 2003",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/88ef0d8ec26cb47d31143b07bc74d1f580600410/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 45902
+    "templeOrgId": 45902,
+    "area": 17300
   },
   {
     "templeName": "Newport Beach California Temple",
@@ -1221,7 +1373,8 @@ const operatingTemples = [
     "dedicated": "August 28, 2005",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5288eedbc6e58a3ad9d586eb850d926a7d30ab5a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 45903
+    "templeOrgId": 45903,
+    "area": 17800
   },
   {
     "templeName": "Quetzaltenango Guatemala Temple",
@@ -1229,7 +1382,8 @@ const operatingTemples = [
     "dedicated": "December 11, 2011",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/61a9bf72e29c45210c113c3f70c8d80ceb388362/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 78698
+    "templeOrgId": 78698,
+    "area": 21085
   },
   {
     "templeName": "Bangkok Thailand Temple",
@@ -1237,7 +1391,8 @@ const operatingTemples = [
     "dedicated": "October 22, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/4052d9f8ff0e11edb9dbeeeeac1e97aea1b93079/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4069712
+    "templeOrgId": 4069712,
+    "area": 48525
   },
   {
     "templeName": "Abidjan Ivory Coast Temple",
@@ -1245,7 +1400,8 @@ const operatingTemples = [
     "dedicated": "May 25, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bal80d1i45vz2eluh67xvxs09ep6p2m1lfv69t0q/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4069710
+    "templeOrgId": 4069710,
+    "area": 17362
   },
   {
     "templeName": "Port-au-Prince Haiti Temple",
@@ -1253,7 +1409,8 @@ const operatingTemples = [
     "dedicated": "September 1, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ecd338cd0b4011eca4aceeeeac1e0759736ccaa9/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4069711
+    "templeOrgId": 4069711,
+    "area": 10396
   },
   {
     "templeName": "Phoenix Arizona Temple",
@@ -1261,7 +1418,8 @@ const operatingTemples = [
     "dedicated": "November 16, 2014",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5446b8c12c7aacacff8444134ed15190da233a58/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4004672
+    "templeOrgId": 4004672,
+    "area": 64870
   },
   {
     "templeName": "Winnipeg Manitoba Temple",
@@ -1269,7 +1427,8 @@ const operatingTemples = [
     "dedicated": "October 31, 2021",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c138e6a51fdc11ec86faeeeeac1e09d25bc132a7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4010937
+    "templeOrgId": 4010937,
+    "area": 16100
   },
   {
     "templeName": "Fort Collins Colorado Temple",
@@ -1277,7 +1436,8 @@ const operatingTemples = [
     "dedicated": "October 16, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0eaefc0418fa18839483f3c54f1d44733ee99610/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4010939
+    "templeOrgId": 4010939,
+    "area": 42000
   },
   {
     "templeName": "Meridian Idaho Temple",
@@ -1285,7 +1445,8 @@ const operatingTemples = [
     "dedicated": "November 19, 2017",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/109c78e75c462bdf08ec79e081104043b065d34f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4010938
+    "templeOrgId": 4010938,
+    "area": 67331
   },
   {
     "templeName": "Brigham City Utah Temple",
@@ -1293,7 +1454,8 @@ const operatingTemples = [
     "dedicated": "September 23, 2012",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/154ee0c38f920aa66074c0338fe29f535e0d0a65/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007349
+    "templeOrgId": 4007349,
+    "area": 36000
   },
   {
     "templeName": "Fort Lauderdale Florida Temple",
@@ -1301,7 +1463,8 @@ const operatingTemples = [
     "dedicated": "May 4, 2014",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/0871c25e05d9ad7a649fba4ce0cffcb112f0aed7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007348
+    "templeOrgId": 4007348,
+    "area": 30500
   },
   {
     "templeName": "Fortaleza Brazil Temple",
@@ -1309,7 +1472,8 @@ const operatingTemples = [
     "dedicated": "June 2, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/e2a28dbb2b14f5f71d79b359cf9f7b88dc480144/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007351
+    "templeOrgId": 4007351,
+    "area": 36000
   },
   {
     "templeName": "Sapporo Japan Temple",
@@ -1317,7 +1481,8 @@ const operatingTemples = [
     "dedicated": "August 21, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c917995588e9c8d3ce881ebd32405150f9109fa7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007350
+    "templeOrgId": 4007350,
+    "area": 48480
   },
   {
     "templeName": "Cebu City Philippines Temple",
@@ -1325,7 +1490,8 @@ const operatingTemples = [
     "dedicated": "June 13, 2010",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/3b515c363a8c71994bd6e110cf021fc84d9c90f6/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 77199
+    "templeOrgId": 77199,
+    "area": 29556
   },
   {
     "templeName": "Concepción Chile Temple",
@@ -1333,7 +1499,8 @@ const operatingTemples = [
     "dedicated": "October 28, 2018",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7873102ba98c0c2b6f45ca655d737cf5a5e7f7c2/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007347
+    "templeOrgId": 4007347,
+    "area": 23095
   },
   {
     "templeName": "Palmyra New York Temple",
@@ -1341,7 +1508,8 @@ const operatingTemples = [
     "dedicated": "April 6, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/fbd79639873ea6df9927ecc310a21fd4d3094e36/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 37774
+    "templeOrgId": 37774,
+    "area": 10900
   },
   {
     "templeName": "Oquirrh Mountain Utah Temple",
@@ -1349,7 +1517,8 @@ const operatingTemples = [
     "dedicated": "August 21, 2009",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b46172590e39dff0cb70a5dcb243bd90febcccf8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 77200
+    "templeOrgId": 77200,
+    "area": 60000
   },
   {
     "templeName": "Pocatello Idaho Temple",
@@ -1357,7 +1526,8 @@ const operatingTemples = [
     "dedicated": "November 7, 2021",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/088138fe9fc211ec987feeeeac1e2a17f945bcb2/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4098474
+    "templeOrgId": 4098474,
+    "area": 71125
   },
   {
     "templeName": "Saratoga Springs Utah Temple",
@@ -1365,7 +1535,8 @@ const operatingTemples = [
     "dedicated": "August 13, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/550bf261ac7911ed8c4beeeeac1e96d814e4a849/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4098475
+    "templeOrgId": 4098475,
+    "area": 97836
   },
   {
     "templeName": "Alabang Philippines Temple",
@@ -1373,7 +1544,8 @@ const operatingTemples = [
     "dedicated": "January 18, 2026",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/2cr3d0ah18yg08jyhl9vxg8cte1ge96z7q4h8c98/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4098472
+    "templeOrgId": 4098472,
+    "area": 35998
   },
   {
     "templeName": "Nairobi Kenya Temple",
@@ -1381,7 +1553,8 @@ const operatingTemples = [
     "dedicated": "May 18, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/xbrnlkgvoumomut7itk86rrpepzrej7pax1mvuzz/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4098473
+    "templeOrgId": 4098473,
+    "area": 19870
   },
   {
     "templeName": "Brasília Brazil Temple",
@@ -1389,7 +1562,8 @@ const operatingTemples = [
     "dedicated": "September 17, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/95f3f3abdd4811ed920ceeeeac1e15db91037802/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4098471
+    "templeOrgId": 4098471,
+    "area": 25000
   },
   {
     "templeName": "Adelaide Australia Temple",
@@ -1397,7 +1571,8 @@ const operatingTemples = [
     "dedicated": "June 15, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ac55d0df60be2627d4e67f5aab5eece766f672c0/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38298
+    "templeOrgId": 38298,
+    "area": 10700
   },
   {
     "templeName": "Tucson Arizona Temple",
@@ -1405,7 +1580,8 @@ const operatingTemples = [
     "dedicated": "August 13, 2017",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/85c2eec3fdccb54f9191db89e21688f16e9e6ad5/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4017571
+    "templeOrgId": 4017571,
+    "area": 38216
   },
   {
     "templeName": "Arequipa Peru Temple",
@@ -1413,7 +1589,8 @@ const operatingTemples = [
     "dedicated": "December 15, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/55f6c59ce8f9c093a9c689067f8674335de544e2/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4017570
+    "templeOrgId": 4017570,
+    "area": 26969
   },
   {
     "templeName": "Pittsburgh Pennsylvania Temple",
@@ -1421,7 +1598,8 @@ const operatingTemples = [
     "dedicated": "September 15, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/3acad454f1e511ee8547eeeeac1e08ec1996e39a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4130713
+    "templeOrgId": 4130713,
+    "area": 32240
   },
   {
     "templeName": "Tallahassee Florida Temple",
@@ -1429,7 +1607,8 @@ const operatingTemples = [
     "dedicated": "December 8, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/eimd0slu9a41hucf9p4n4ue3xurlm716kbaejbxi/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4130711
+    "templeOrgId": 4130711,
+    "area": 29255
   },
   {
     "templeName": "Bahía Blanca Argentina Temple",
@@ -1437,7 +1616,8 @@ const operatingTemples = [
     "dedicated": "November 23, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/eyafcdinietc2piwwuclmjgus8kq6af3w0h3xz7a/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4130710
+    "templeOrgId": 4130710,
+    "area": 23400
   },
   {
     "templeName": "Star Valley Wyoming Temple",
@@ -1445,7 +1625,8 @@ const operatingTemples = [
     "dedicated": "October 30, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b6e3d29eb9947ea11a6c777b53d556ed1b282235/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012421
+    "templeOrgId": 4012421,
+    "area": 18609
   },
   {
     "templeName": "Barranquilla Colombia Temple",
@@ -1453,7 +1634,8 @@ const operatingTemples = [
     "dedicated": "December 9, 2018",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7e68e3b2ed30f817f91392968737f45a07e17e79/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012420
+    "templeOrgId": 4012420,
+    "area": 25349
   },
   {
     "templeName": "Layton Utah Temple",
@@ -1461,7 +1643,8 @@ const operatingTemples = [
     "dedicated": "June 16, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/529738f2aff311eea33eeeeeac1e3460ceb07401/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4108674
+    "templeOrgId": 4108674,
+    "area": 93539
   },
   {
     "templeName": "Paris France Temple",
@@ -1469,7 +1652,8 @@ const operatingTemples = [
     "dedicated": "May 21, 2017",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5ec026c4efeaaa19a98e40f0f1b4c6069ae63517/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012417
+    "templeOrgId": 4012417,
+    "area": 44175
   },
   {
     "templeName": "Provo City Center Temple",
@@ -1477,7 +1661,8 @@ const operatingTemples = [
     "dedicated": "March 20, 2016",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/e97d43cdfab131f3ffac633cd7c952de861d51c8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012416
+    "templeOrgId": 4012416,
+    "area": 85084
   },
   {
     "templeName": "Richmond Virginia Temple",
@@ -1485,7 +1670,8 @@ const operatingTemples = [
     "dedicated": "May 7, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8d15af22978011edae44eeeeac1e7b4cc85f1968/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4108675
+    "templeOrgId": 4108675,
+    "area": 39202
   },
   {
     "templeName": "Syracuse Utah Temple",
@@ -1493,7 +1679,8 @@ const operatingTemples = [
     "dedicated": "June 8, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/o3vkxs7q01j4fue0tmaurmboy67osfrdl2bkbgsj/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4130690
+    "templeOrgId": 4130690,
+    "area": 90526
   },
   {
     "templeName": "Durban South Africa Temple",
@@ -1501,7 +1688,8 @@ const operatingTemples = [
     "dedicated": "February 16, 2020",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8b3f1b895a7c92ee66c2d0c7e78606f75f0d0cc8/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012419
+    "templeOrgId": 4012419,
+    "area": 19860
   },
   {
     "templeName": "Payson Utah Temple",
@@ -1509,7 +1697,8 @@ const operatingTemples = [
     "dedicated": "June 7, 2015",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/7b998062094c11eca393eeeeac1e50df07c8fd34/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4007811
+    "templeOrgId": 4007811,
+    "area": 96630
   },
   {
     "templeName": "Kinshasa Democratic Republic of the Congo Temple",
@@ -1517,7 +1706,8 @@ const operatingTemples = [
     "dedicated": "April 14, 2019",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/8cae06798bb811ec8827eeeeac1ee76df4b07c85/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4012418
+    "templeOrgId": 4012418,
+    "area": 12000
   },
   {
     "templeName": "Rexburg Idaho Temple",
@@ -1525,7 +1715,8 @@ const operatingTemples = [
     "dedicated": "February 10, 2008",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/af036291e98a7caa26e051bd65e2a37176cbbf89/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 72126
+    "templeOrgId": 72126,
+    "area": 57504
   },
   {
     "templeName": "San Juan Puerto Rico Temple",
@@ -1533,7 +1724,8 @@ const operatingTemples = [
     "dedicated": "January 15, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/b8e8764466cb11eda40eeeeeac1ead22054ff7fc/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114420
+    "templeOrgId": 4114420,
+    "area": 6988
   },
   {
     "templeName": "Oaxaca Mexico Temple",
@@ -1541,7 +1733,8 @@ const operatingTemples = [
     "dedicated": "March 11, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/f4d7feeaec4cb56a01fe624fad0ddddb26267d11/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 37835
+    "templeOrgId": 37835,
+    "area": 10700
   },
   {
     "templeName": "Red Cliffs Utah Temple",
@@ -1549,7 +1742,8 @@ const operatingTemples = [
     "dedicated": "March 24, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/5cd5c361840511ee9868eeeeac1e77f1c174272f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114421
+    "templeOrgId": 4114421,
+    "area": 96277
   },
   {
     "templeName": "Puebla Mexico Temple",
@@ -1557,7 +1751,8 @@ const operatingTemples = [
     "dedicated": "May 19, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/42fe168daf1b11eeafb4eeeeac1e9006b9466aaa/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114416
+    "templeOrgId": 4114416,
+    "area": 35865
   },
   {
     "templeName": "Auckland New Zealand Temple",
@@ -1565,7 +1760,8 @@ const operatingTemples = [
     "dedicated": "April 13, 2025",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/stf2cvl7ssqhkj3h0a8ldp1fo9nxy9vtw8au4ze2/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114417
+    "templeOrgId": 4114417,
+    "area": 45456
   },
   {
     "templeName": "Praia Cape Verde Temple",
@@ -1573,7 +1769,8 @@ const operatingTemples = [
     "dedicated": "June 19, 2022",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/978860bab5c311ec9b2deeeeac1efb02ff7625cc/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114414
+    "templeOrgId": 4114414,
+    "area": 8759
   },
   {
     "templeName": "Yigo Guam Temple",
@@ -1581,7 +1778,8 @@ const operatingTemples = [
     "dedicated": "May 22, 2022",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/9f541175bcfc11eca77eeeeeac1ea52488fbff2f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114415
+    "templeOrgId": 4114415,
+    "area": 6861
   },
   {
     "templeName": "Feather River California Temple",
@@ -1589,7 +1787,8 @@ const operatingTemples = [
     "dedicated": "October 8, 2023",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/69a19c66094011ee9df4eeeeac1ef38bc47a5aec/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114412
+    "templeOrgId": 4114412,
+    "area": 41665
   },
   {
     "templeName": "Mendoza Argentina Temple",
@@ -1597,7 +1796,8 @@ const operatingTemples = [
     "dedicated": "September 22, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/af7pu96yy3qbqvv6nq1bz9p662c5coek29rsmtkp/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114410
+    "templeOrgId": 4114410,
+    "area": 21999
   },
   {
     "templeName": "Salvador Brazil Temple",
@@ -1605,7 +1805,8 @@ const operatingTemples = [
     "dedicated": "October 20, 2024",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/UlFyrs8Nz5vUZKIrUWEuLcfmvVr5wLfBnrDFKkAy/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 4114411
+    "templeOrgId": 4114411,
+    "area": 29963
   },
   {
     "templeName": "Louisville Kentucky Temple",
@@ -1613,7 +1814,8 @@ const operatingTemples = [
     "dedicated": "March 19, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/352468c0460e400281f169cc322ce2fc4c9c9a9f/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38376
+    "templeOrgId": 38376,
+    "area": 10700
   },
   {
     "templeName": "Medford Oregon Temple",
@@ -1621,7 +1823,8 @@ const operatingTemples = [
     "dedicated": "April 16, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/efc8b3641db69038094c6467ffcb3f7acb07d5b7/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38377
+    "templeOrgId": 38377,
+    "area": 10700
   },
   {
     "templeName": "Fresno California Temple",
@@ -1629,7 +1832,8 @@ const operatingTemples = [
     "dedicated": "April 9, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/afe9eb9888bd6c7a011b33a41aac6e03fdc39282/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 37354
+    "templeOrgId": 37354,
+    "area": 10850
   },
   {
     "templeName": "Oklahoma City Oklahoma Temple",
@@ -1637,7 +1841,8 @@ const operatingTemples = [
     "dedicated": "July 30, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/c7a301686d61136c5451eafcc81ee4633308a882/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38378
+    "templeOrgId": 38378,
+    "area": 10890
   },
   {
     "templeName": "Copenhagen Denmark Temple",
@@ -1645,7 +1850,8 @@ const operatingTemples = [
     "dedicated": "May 23, 2004",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/ecc2bf9dceebbd11e1f9ac07b060aed8c1970125/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38397
+    "templeOrgId": 38397,
+    "area": 25000
   },
   {
     "templeName": "San José Costa Rica Temple",
@@ -1653,7 +1859,8 @@ const operatingTemples = [
     "dedicated": "June 4, 2000",
     "imageUrl": "https://www.churchofjesuschrist.org/imgs/bd91294858daabca93f65c705d65adc00568c3c3/full/320%2C/0/default",
     "status": "OPERATING",
-    "templeOrgId": 38398
+    "templeOrgId": 38398,
+    "area": 10700
   }
 ];
 
