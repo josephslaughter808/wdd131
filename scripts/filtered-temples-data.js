@@ -1909,7 +1909,7 @@ const announcedTemples = [
     "templeName": "Springfield Missouri Temple",
     "location": "Missouri, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/z2okt93bltbf9p8o6pnzx67y20cj7ih70kyr3lef/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Downtown_Springfield%2C_MO_and_Hammons_Field.jpg/960px-Downtown_Springfield%2C_MO_and_Hammons_Field.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4156617
   },
@@ -1997,7 +1997,7 @@ const announcedTemples = [
     "templeName": "Cincinnati Ohio Temple",
     "location": "Ohio, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/8fcpmndjpg1q017due17ifobeiuwv7d2ovduvgk7/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Downtown_Cincinnati_viewed_from_Devou_Park_%28cropped%29.jpg/960px-Downtown_Cincinnati_viewed_from_Devou_Park_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163879
   },
@@ -2061,7 +2061,7 @@ const announcedTemples = [
     "templeName": "Rosario Argentina Temple",
     "location": "Argentina",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Skyline_Rosarino.jpg/960px-Skyline_Rosarino.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163871
   },
@@ -2093,7 +2093,7 @@ const announcedTemples = [
     "templeName": "Chihuahua Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Chihuahua_montage.jpg/960px-Chihuahua_montage.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Skyline_de_Chihuahua-Palomar.jpg/960px-Skyline_de_Chihuahua-Palomar.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4163867
   },
@@ -2301,7 +2301,7 @@ const announcedTemples = [
     "templeName": "Santos Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/At_Santos%2C_Brazil_2018_480_%28cropped%29.jpg/960px-At_Santos%2C_Brazil_2018_480_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148126
   },
@@ -2309,7 +2309,7 @@ const announcedTemples = [
     "templeName": "Maceió Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/c4bd3d9a13a611efbf27eeeeac1ed41dbaccc990/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Praia_de_Ipioca_-_Macei%C3%B3_-_Alagoas_%2811394603505%29.jpg/960px-Praia_de_Ipioca_-_Macei%C3%B3_-_Alagoas_%2811394603505%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4148125
   },
@@ -2445,7 +2445,7 @@ const announcedTemples = [
     "templeName": "Reynosa Mexico Temple",
     "location": "Mexico",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vista_desde_el_tejado.jpeg/960px-Vista_desde_el_tejado.jpeg",
     "status": "ANNOUNCED",
     "templeOrgId": 4171154
   },
@@ -2501,7 +2501,7 @@ const announcedTemples = [
     "templeName": "Colorado Springs Colorado Temple",
     "location": "Colorado, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/d3x9rmdulew7u9evwnuhmb9vf7kpshov3pnwz9i0/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Colorado-springs-450_%287296313624%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160398
   },
@@ -2533,7 +2533,7 @@ const announcedTemples = [
     "templeName": "Luanda Angola Temple",
     "location": "Angola",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luanda_2025_focused_%28cropped%29.jpg/960px-Luanda_2025_focused_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160394
   },
@@ -2557,7 +2557,7 @@ const announcedTemples = [
     "templeName": "Goiânia Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Panomara_Goi%C3%A2nia_2022.jpg/960px-Panomara_Goi%C3%A2nia_2022.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4160390
   },
@@ -2621,7 +2621,7 @@ const announcedTemples = [
     "templeName": "Vitória Brazil Temple",
     "location": "Brazil",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/az6tow3bmievwjahtohx0jsyio2njarv4fghe30s/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/-2016-11-05_ao_13-_Vit%C3%B3ria_94_Romerito_Pontes_%2830875449812%29_%28cropped%29.jpg/960px--2016-11-05_ao_13-_Vit%C3%B3ria_94_Romerito_Pontes_%2830875449812%29_%28cropped%29.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4142976
   },
@@ -2661,7 +2661,7 @@ const announcedTemples = [
     "templeName": "Tacoma Washington Temple",
     "location": "Washington, United States",
     "dedicated": "Announced",
-    "imageUrl": "https://www.churchofjesuschrist.org/imgs/bfr00qjwzuj4kewecx5desudgk559x627f8dngm5/full/320%2C/0/default",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tacoma_Washington_Aerial%2C_June_2025.jpg/960px-Tacoma_Washington_Aerial%2C_June_2025.jpg",
     "status": "ANNOUNCED",
     "templeOrgId": 4153316
   },
