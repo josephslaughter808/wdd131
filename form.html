@@ -15,36 +15,39 @@
 <body>
   <header class="form-header">
     <h1>Product Review</h1>
-    <p>Complete the form below.</p>
+    <p>Share your experience and help future customers choose with confidence.</p>
   </header>
 
   <main class="form-main">
     <form action="review.html" method="get" class="review-form">
+      <p class="form-intro">All fields marked with <span aria-hidden="true">*</span> are required.</p>
+
       <div class="field-group">
-        <label for="productName">Product Name</label>
+        <label for="productName">Product Name <span aria-hidden="true">*</span></label>
         <select id="productName" name="productName" required>
           <option value="" disabled selected>Select a Product ...</option>
         </select>
       </div>
 
       <fieldset class="field-group">
-        <legend>Overall Rating</legend>
+        <legend>Overall Rating <span aria-hidden="true">*</span></legend>
         <div class="rating-group">
-          <label for="rating1"><input id="rating1" name="rating" type="radio" value="1" required> <span>&star;</span> 1</label>
-          <label for="rating2"><input id="rating2" name="rating" type="radio" value="2" required> <span>&star;&star;</span> 2</label>
-          <label for="rating3"><input id="rating3" name="rating" type="radio" value="3" required> <span>&star;&star;&star;</span> 3</label>
-          <label for="rating4"><input id="rating4" name="rating" type="radio" value="4" required> <span>&star;&star;&star;&star;</span> 4</label>
-          <label for="rating5"><input id="rating5" name="rating" type="radio" value="5" required> <span>&star;&star;&star;&star;&star;</span> 5</label>
+          <label for="rating1"><input id="rating1" name="rating" type="radio" value="1" required> <span aria-hidden="true">&star;</span> 1 Star</label>
+          <label for="rating2"><input id="rating2" name="rating" type="radio" value="2" required> <span aria-hidden="true">&star;&star;</span> 2 Stars</label>
+          <label for="rating3"><input id="rating3" name="rating" type="radio" value="3" required> <span aria-hidden="true">&star;&star;&star;</span> 3 Stars</label>
+          <label for="rating4"><input id="rating4" name="rating" type="radio" value="4" required> <span aria-hidden="true">&star;&star;&star;&star;</span> 4 Stars</label>
+          <label for="rating5"><input id="rating5" name="rating" type="radio" value="5" required> <span aria-hidden="true">&star;&star;&star;&star;&star;</span> 5 Stars</label>
         </div>
       </fieldset>
 
       <div class="field-group">
-        <label for="installDate">Date of Installation</label>
+        <label for="installDate">Date of Installation <span aria-hidden="true">*</span></label>
         <input id="installDate" name="installDate" type="date" required>
       </div>
 
       <fieldset class="field-group">
         <legend>Useful Features</legend>
+        <p class="fieldset-help">Check all that apply.</p>
         <div class="checklist">
           <label for="featureDurability"><input id="featureDurability" name="features" type="checkbox" value="Durability"> Durability</label>
           <label for="featureEase"><input id="featureEase" name="features" type="checkbox" value="Ease of Use"> Ease of Use</label>
@@ -71,5 +74,6 @@
     <p>&copy; <span id="currentyear"></span> | Joseph Slaughter | United States</p>
     <p id="lastModified"></p>
   </footer>
+  <script src="scripts/getdates.js"></script>
 </body>
 </html>

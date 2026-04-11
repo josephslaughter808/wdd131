@@ -13,10 +13,14 @@
   <script src="scripts/review.js" defer></script>
 </head>
 <body>
+  <header class="form-header confirmation-header">
+    <p class="eyebrow">Submission Complete</p>
+    <h1>Review Submitted</h1>
+  </header>
+
   <main class="confirmation-main">
     <section class="confirmation-card">
-      <h1>Review Submitted</h1>
-      <p>Your review was submitted successfully.</p>
+      <p class="confirmation-message">Your review was submitted successfully.</p>
       <p class="review-count">Reviews completed on this browser: <span id="reviewCount">0</span></p>
       <p><a href="form.html">Submit another review</a></p>
     </section>
@@ -26,5 +30,6 @@
     <p>&copy; <span id="currentyear"></span> | Joseph Slaughter | United States</p>
     <p id="lastModified"></p>
   </footer>
+  <script src="scripts/getdates.js"></script>
 </body>
 </html>
