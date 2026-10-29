@@ -45,6 +45,9 @@ main {
 max-width: 900px;
 margin: auto;
 padding: 20px;
+display: grid;
+grid-template-columns: 1fr;
+gap: 20px;
 }
 
 h1 {
@@ -52,12 +55,6 @@ text-align: center;
 }
 
 /* GRID CARDS */
-
-main {
-display: grid;
-grid-template-columns: 1fr;
-gap: 20px;
-}
 
 .card {
 background: white;
