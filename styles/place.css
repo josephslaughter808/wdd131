@@ -1,9 +1,10 @@
 :root {
-  --background: #f4f4f4;
+  --background: #f7f3ef;
   --surface: #ffffff;
-  --primary: #2d4f6c;
+  --primary: #7a301c;
+  --accent: #d89b54;
   --ink: #222222;
-  --line: #d9d9d9;
+  --line: #dfd4cb;
   --display-font: "Barlow Condensed", sans-serif;
   --body-font: "Inter", sans-serif;
 }
@@ -28,7 +29,8 @@ img {
   padding: 2rem 1rem;
   text-align: center;
   background: var(--primary);
-  color: white;
+  color: #ffffff;
+  border-bottom: 0.5rem solid var(--accent);
 }
 
 .place-header h1 {
@@ -39,10 +41,10 @@ img {
 
 .place-main {
   display: grid;
-  gap: 1rem;
-  max-width: 1100px;
+  gap: 0;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 1rem 1rem 3rem;
+  background: var(--surface);
 }
 
 .hero picture,
@@ -51,19 +53,18 @@ img {
 }
 
 .hero img {
-  border-radius: 0.5rem;
+  height: auto;
   object-fit: cover;
 }
 
 .info-card {
   background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 0.5rem;
-  padding: 1rem;
+  padding: 2rem 1.25rem;
+  text-align: center;
 }
 
 .info-card h2 {
-  margin-top: 0;
+  margin: 0 0 1rem;
   font-family: var(--display-font);
   font-size: 2rem;
   color: var(--primary);
@@ -79,18 +80,19 @@ dl {
 
 dl div {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.2rem;
-  padding: 0.7rem 0;
-  border-bottom: 1px solid var(--line);
-}
-
-dl div:last-child {
-  border-bottom: 0;
+  grid-template-columns: minmax(7rem, 1fr) minmax(0, 1.35fr);
+  gap: 0.75rem;
+  padding: 0.35rem 0;
 }
 
 dt {
   font-weight: 700;
+  text-align: right;
+}
+
+dd {
+  margin: 0;
+  text-align: left;
 }
 
 footer {
@@ -106,24 +108,41 @@ footer p {
 
 @media (min-width: 780px) {
   .place-main {
-    grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr);
-    grid-template-areas:
-      "hero data"
-      "hero weather";
-    align-items: start;
-    margin-top: -2.5rem;
+    display: block;
+    position: relative;
+    max-width: 1400px;
   }
 
-  .hero {
-    grid-area: hero;
+  .hero img {
+    width: 100%;
+    max-height: 700px;
+    object-fit: cover;
+  }
+
+  .info-card {
+    position: absolute;
+    width: min(22rem, 30vw);
+    padding: 1.25rem;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0.4rem 1.2rem rgba(34, 34, 34, 0.25);
+  }
+
+  .info-card h2 {
+    margin: -0.6rem -0.6rem 1rem;
+    padding: 0.65rem 1rem;
+    color: #ffffff;
+    background: var(--primary);
+    text-align: left;
   }
 
   .data-card {
-    grid-area: data;
+    top: 2rem;
+    left: 2rem;
   }
 
   .weather-card {
-    grid-area: weather;
+    right: 2rem;
+    bottom: 2rem;
   }
 
   .weather-card h2::after {
